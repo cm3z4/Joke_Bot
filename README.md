@@ -1,6 +1,6 @@
 # Joke_Bot
 
-### A bot/script that commits a joke from icanhazdadjoke.com as needed.
+### A bot/script that commits a joke from https://icanhazdadjoke.com as needed.
 
 #### INSTRUCTIONS:
 
