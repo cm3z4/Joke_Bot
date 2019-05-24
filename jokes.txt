@@ -37,3 +37,6 @@ What is a witch's favorite subject in school? Spelling!
 Commit: Thu May 23 23:41:01 CDT 2019
 I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
 
+Commit: Fri May 24 08:41:40 CDT 2019
+What kind of music do planets listen to? Nep-tunes.
+
