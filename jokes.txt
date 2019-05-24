@@ -49,3 +49,6 @@ It's only a murder of crows if there's probable caws.
 Commit: Fri May 24 11:00:01 CDT 2019
 what do you call a dog that can do magic tricks? a labracadabrador
 
+Commit: Fri May 24 12:00:01 CDT 2019
+Why did the barber win the race? He took a short cut.
+
