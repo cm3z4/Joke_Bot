@@ -28,3 +28,6 @@ Why do mathematicians hate the U.S.? Because it's indivisible.
 Commit: Thu May 23 23:38:01 CDT 2019
 Why do bears have hairy coats? Fur protection.
 
+Commit: Thu May 23 23:39:02 CDT 2019
+What do you call a droid that takes the long way around? R2 detour.
+
