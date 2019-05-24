@@ -25,3 +25,6 @@ What do you call a pile of cats?  A Meowtain.
 Commit: Thu May 23 23:37:01 CDT 2019
 Why do mathematicians hate the U.S.? Because it's indivisible.
 
+Commit: Thu May 23 23:38:01 CDT 2019
+Why do bears have hairy coats? Fur protection.
+
