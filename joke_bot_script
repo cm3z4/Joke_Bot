@@ -55,7 +55,9 @@ curl -H "Accept: text/plain" https://icanhazdadjoke.com/ >> $output_file
 # Adds some spacing between jokes.
 printf "\n\n" >> $output_file
 
-# 
+# Commit after the joke has been received and added to the output file.
 git add $output_file
 git commit -m "$commitDate"
 git push origin master
+
+# THE editing
