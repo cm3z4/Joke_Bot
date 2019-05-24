@@ -52,3 +52,6 @@ what do you call a dog that can do magic tricks? a labracadabrador
 Commit: Fri May 24 12:00:01 CDT 2019
 Why did the barber win the race? He took a short cut.
 
+Commit: Fri May 24 13:00:01 CDT 2019
+How do you fix a broken pizza? With tomato paste.
+
