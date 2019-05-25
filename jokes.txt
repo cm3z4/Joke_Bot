@@ -61,3 +61,6 @@ If at first you don't succeed, sky diving is not for you!
 Commit: Sat May 25 00:11:13 CDT 2019
 I’ll tell you something about German sausages, they’re the wurst
 
+Commit: Sat May 25 00:11:33 CDT 2019
+I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
+
