@@ -79,3 +79,6 @@ what do you call a dog that can do magic tricks? a labracadabrador
 Commit: Sat May 25 20:00:01 CDT 2019
 Why do bees have sticky hair? Because they use honey combs!
 
+Commit: Sun May 26 12:00:01 CDT 2019
+What is a tornado's favorite game to play? Twister!
+
