@@ -76,3 +76,6 @@ Atheism is a non-prophet organisation.
 Commit: Sat May 25 14:00:01 CDT 2019
 what do you call a dog that can do magic tricks? a labracadabrador
 
+Commit: Sat May 25 20:00:01 CDT 2019
+Why do bees have sticky hair? Because they use honey combs!
+
