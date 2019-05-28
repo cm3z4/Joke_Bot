@@ -110,3 +110,6 @@ What did one plate say to the other plate? Dinner is on me!
 Commit: Mon May 27 22:00:01 CDT 2019
 What kind of music do mummy's like? Rap
 
+Commit: Mon May 27 23:00:01 CDT 2019
+What did the Red light say to the Green light? Don't look at me I'm changing!
+
