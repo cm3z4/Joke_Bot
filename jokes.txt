@@ -113,3 +113,6 @@ What kind of music do mummy's like? Rap
 Commit: Mon May 27 23:00:01 CDT 2019
 What did the Red light say to the Green light? Don't look at me I'm changing!
 
+Commit: Tue May 28 00:00:01 CDT 2019
+They laughed when I said I wanted to be a comedian – they’re not laughing now.
+
