@@ -98,3 +98,6 @@ A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel 
 Commit: Sun May 26 23:00:01 CDT 2019
 I was so proud when I finished the puzzle in six months, when on the side it said three to four years.
 
+Commit: Mon May 27 20:41:01 CDT 2019
+Why can't you use "Beef stew" as a password? Because it's not stroganoff.
+
