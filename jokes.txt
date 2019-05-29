@@ -168,3 +168,6 @@ A man walks into a bar and orders helicopter flavor chips. The barman replies â€
 Commit: Wed May 29 13:00:01 CDT 2019
 
 
+Commit: Wed May 29 14:00:01 CDT 2019
+I went to the zoo the other day, there was only one dog in it. It was a shitzu.
+
