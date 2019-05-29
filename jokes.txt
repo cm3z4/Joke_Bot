@@ -153,3 +153,6 @@ Have you heard about the film "Constipation", you probably haven't because it's 
 Commit: Tue May 28 21:00:01 CDT 2019
 What's blue and not very heavy?  Light blue.
 
+Commit: Tue May 28 22:00:01 CDT 2019
+Why did the scarecrow win an award? Because he was outstanding in his field.
+
