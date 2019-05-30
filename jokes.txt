@@ -174,3 +174,6 @@ I went to the zoo the other day, there was only one dog in it. It was a shitzu.
 Commit: Wed May 29 15:00:01 CDT 2019
 Some people eat light bulbs. They say it's a nice light snack.
 
+Commit: Wed May 29 20:00:18 CDT 2019
+Have you heard about the film "Constipation", you probably haven't because it's not out yet.
+
