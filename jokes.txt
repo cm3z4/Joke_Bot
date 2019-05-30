@@ -186,3 +186,6 @@ What did celery say when he broke up with his girlfriend? She wasn't right for m
 Commit: Wed May 29 23:00:01 CDT 2019
 A cannibal is someone who is fed up with people.
 
+Commit: Thu May 30 00:00:01 CDT 2019
+Have you heard of the band 1023MB? They haven't got a gig yet.
+
