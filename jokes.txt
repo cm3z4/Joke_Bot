@@ -210,3 +210,6 @@ What did the calculator say to the student? You can count on me.
 Commit: Thu May 30 15:00:01 CDT 2019
 A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”
 
+Commit: Thu May 30 16:00:01 CDT 2019
+What did one plate say to the other plate? Dinner is on me!
+
