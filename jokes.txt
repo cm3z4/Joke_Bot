@@ -207,3 +207,6 @@ Commit: Thu May 30 13:00:02 CDT 2019
 Commit: Thu May 30 14:00:01 CDT 2019
 What did the calculator say to the student? You can count on me.
 
+Commit: Thu May 30 15:00:01 CDT 2019
+A man walks into a bar and orders helicopter flavor chips. The barman replies “sorry mate we only do plain”
+
