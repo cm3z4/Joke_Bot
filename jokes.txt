@@ -183,3 +183,6 @@ It doesn't matter how much you push the envelope. It will still be stationary.
 Commit: Wed May 29 22:00:01 CDT 2019
 What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
 
+Commit: Wed May 29 23:00:01 CDT 2019
+A cannibal is someone who is fed up with people.
+
