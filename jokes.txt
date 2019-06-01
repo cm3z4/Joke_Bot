@@ -225,3 +225,6 @@ Who is the coolest Doctor in the hospital? The hip Doctor!
 Commit: Thu May 30 23:00:01 CDT 2019
 What do you call someone with no nose? Nobody knows.
 
+Commit: Fri May 31 19:11:46 CDT 2019
+What kind of pants do ghosts wear? Boo jeans.
+
