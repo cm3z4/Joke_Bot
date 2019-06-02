@@ -263,3 +263,6 @@ If you walk into a forest and cut down a tree, but the tree doesn't understand w
 Commit: Sun Jun  2 15:00:01 CDT 2019
 "I'm sorry." "Hi sorry, I'm dad"
 
+Commit: Sun Jun  2 16:00:01 CDT 2019
+Two dyslexics walk into a bra.
+
