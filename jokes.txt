@@ -266,3 +266,6 @@ Commit: Sun Jun  2 15:00:01 CDT 2019
 Commit: Sun Jun  2 16:00:01 CDT 2019
 Two dyslexics walk into a bra.
 
+Commit: Sun Jun  2 17:00:01 CDT 2019
+It's only a murder of crows if there's probable caws.
+
