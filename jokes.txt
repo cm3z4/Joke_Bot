@@ -269,3 +269,6 @@ Two dyslexics walk into a bra.
 Commit: Sun Jun  2 17:00:01 CDT 2019
 It's only a murder of crows if there's probable caws.
 
+Commit: Sun Jun  2 18:00:01 CDT 2019
+Why do pirates not know the alphabet? They always get stuck at "C".
+
