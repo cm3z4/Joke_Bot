@@ -290,3 +290,7 @@ I saw an ad in a shop window, "Television for sale, $1, volume stuck on full", I
 Commit: Mon Jun  3 00:00:01 CDT 2019
 Did you hear the joke about the wandering nun? She was a roman catholic.
 
+Commit: Mon Jun  3 14:00:01 CDT 2019
+Cosmetic surgery used to be such a taboo subject.
+Now you can talk about Botox and nobody raises an eyebrow.
+
