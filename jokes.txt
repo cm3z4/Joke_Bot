@@ -297,3 +297,6 @@ Now you can talk about Botox and nobody raises an eyebrow.
 Commit: Mon Jun  3 15:00:01 CDT 2019
 What did the big flower say to the littler flower? Hi, bud!
 
+Commit: Mon Jun  3 16:00:01 CDT 2019
+Ever wondered why bees hum? It's because they don't know the words.
+
