@@ -287,3 +287,6 @@ My boss told me that he was going to fire the person with the worst posture. I h
 Commit: Sun Jun  2 23:00:01 CDT 2019
 I saw an ad in a shop window, "Television for sale, $1, volume stuck on full", I thought, "I can't turn that down".
 
+Commit: Mon Jun  3 00:00:01 CDT 2019
+Did you hear the joke about the wandering nun? She was a roman catholic.
+
