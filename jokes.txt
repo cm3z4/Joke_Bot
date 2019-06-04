@@ -309,3 +309,6 @@ The great thing about stationery shops is they're always in the same place...
 Commit: Mon Jun  3 21:00:01 CDT 2019
 Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
 
+Commit: Mon Jun  3 22:00:01 CDT 2019
+What do you call two barracuda fish?  A Pairacuda!
+
