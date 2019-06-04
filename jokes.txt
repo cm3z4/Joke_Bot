@@ -303,3 +303,6 @@ Ever wondered why bees hum? It's because they don't know the words.
 Commit: Mon Jun  3 17:00:01 CDT 2019
 How do the trees get on the internet? They log on.
 
+Commit: Mon Jun  3 20:00:01 CDT 2019
+The great thing about stationery shops is they're always in the same place...
+
