@@ -321,3 +321,6 @@ What do you call someone with no nose? Nobody knows.
 Commit: Tue Jun  4 15:00:01 CDT 2019
 What do you call a duck that gets all A's? A wise quacker.
 
+Commit: Tue Jun  4 19:48:46 CDT 2019
+Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.
+
