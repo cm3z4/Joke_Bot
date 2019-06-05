@@ -334,3 +334,6 @@ I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
 Commit: Wed Jun  5 10:25:01 CDT 2019
 I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
 
+Commit: Wed Jun  5 11:25:01 CDT 2019
+Don’t interrupt someone working intently on a puzzle. Chances are, you’ll hear some crosswords.
+
