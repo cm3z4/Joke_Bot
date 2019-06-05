@@ -346,3 +346,6 @@ I knew a guy who collected candy canes, they were all in mint condition
 Commit: Wed Jun  5 14:25:01 CDT 2019
 Some people eat light bulbs. They say it's a nice light snack.
 
+Commit: Wed Jun  5 16:25:01 CDT 2019
+Why are mummys scared of vacation? They're afraid to unwind.
+
