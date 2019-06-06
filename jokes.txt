@@ -373,3 +373,6 @@ I went to a Foo Fighters Concert once... It was Everlong...
 Commit: Thu Jun  6 10:25:01 CDT 2019
 Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
 
+Commit: Thu Jun  6 14:25:01 CDT 2019
+Recent survey revealed 6 out of 7 dwarf's aren't happy.
+
