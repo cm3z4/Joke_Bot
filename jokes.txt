@@ -358,3 +358,6 @@ Which side of the chicken has more feathers? The outside.
 Commit: Wed Jun  5 19:25:01 CDT 2019
 Why did the girl smear peanut butter on the road? To go with the traffic jam.
 
+Commit: Wed Jun  5 20:25:01 CDT 2019
+Did you hear about the guy who invented Lifesavers? They say he made a mint.
+
