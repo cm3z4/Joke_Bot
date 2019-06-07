@@ -413,3 +413,6 @@ If you walk into a forest and cut down a tree, but the tree doesn't understand w
 Commit: Fri Jun  7 14:25:01 CDT 2019
 I am terrified of elevators. I’m going to start taking steps to avoid them.
 
+Commit: Fri Jun  7 15:25:01 CDT 2019
+What do you call a cow with no legs? Ground beef.
+
