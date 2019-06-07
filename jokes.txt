@@ -407,3 +407,6 @@ Who did the wizard marry? His ghoul-friend
 Commit: Fri Jun  7 10:25:01 CDT 2019
 Why did the scarecrow win an award? Because he was outstanding in his field.
 
+Commit: Fri Jun  7 11:25:01 CDT 2019
+If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?
+
