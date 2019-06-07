@@ -416,3 +416,6 @@ I am terrified of elevators. I’m going to start taking steps to avoid them.
 Commit: Fri Jun  7 15:25:01 CDT 2019
 What do you call a cow with no legs? Ground beef.
 
+Commit: Fri Jun  7 16:25:01 CDT 2019
+Did you know that protons have mass? I didn't even know they were catholic.
+
