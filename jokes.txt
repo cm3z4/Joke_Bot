@@ -425,3 +425,6 @@ A red and a blue ship have just collided in the Caribbean. Apparently the surviv
 Commit: Fri Jun  7 22:25:01 CDT 2019
 A woman is on trial for beating her husband to death with his guitar collection. Judge says, ‘First offender?’ She says, ‘No, first a Gibson! Then a Fender!’
 
+Commit: Fri Jun  7 23:25:01 CDT 2019
+How can you tell a vampire has a cold? They start coffin.
+
