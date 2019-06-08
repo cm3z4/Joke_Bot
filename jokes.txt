@@ -437,3 +437,6 @@ People are making apocalypse jokes like there’s no tomorrow.
 Commit: Sat Jun  8 15:25:01 CDT 2019
 Why did the belt go to prison? He held up a pair of pants!
 
+Commit: Sat Jun  8 16:25:01 CDT 2019
+How do you know if there’s an elephant under your bed? Your head hits the ceiling!
+
