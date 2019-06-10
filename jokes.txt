@@ -473,3 +473,6 @@ I ate a clock yesterday. It was so time consuming.
 Commit: Mon Jun 10 15:25:01 CDT 2019
 What do you call a group of disorganized cats? A cat-tastrophe.
 
+Commit: Mon Jun 10 16:25:01 CDT 2019
+Why do birds fly south for the winter? Because it's too far to walk.
+
