@@ -517,3 +517,6 @@ Why is it so windy inside an arena? All those fans.
 Commit: Tue Jun 11 16:25:30 CDT 2019
 Milk is also the fastest liquid on earth – its pasteurized before you even see it
 
+Commit: Tue Jun 11 17:25:01 CDT 2019
+A man walked in to a bar with some asphalt on his arm. He said “Two beers please, one for me and one for the road.”
+
