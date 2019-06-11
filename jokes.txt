@@ -505,3 +505,6 @@ What do I look like? A JOKE MACHINE!?
 Commit: Tue Jun 11 12:25:01 CDT 2019
 Why did Dracula lie in the wrong coffin? He made a grave mistake.
 
+Commit: Tue Jun 11 13:25:01 CDT 2019
+Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
+
