@@ -511,3 +511,6 @@ Why does Norway have barcodes on their battleships? So when they get back to por
 Commit: Tue Jun 11 14:25:01 CDT 2019
 It’s hard to explain puns to kleptomaniacs, because they take everything literally.
 
+Commit: Tue Jun 11 15:25:01 CDT 2019
+Why is it so windy inside an arena? All those fans.
+
