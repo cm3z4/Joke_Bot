@@ -557,3 +557,6 @@ What musical instrument is found in the bathroom? A tuba toothpaste.
 Commit: Wed Jun 12 17:25:01 CDT 2019
 Dad I’m hungry’ … ‘Hi hungry I’m dad
 
+Commit: Wed Jun 12 18:25:01 CDT 2019
+You know what they say about cliffhangers...
+
