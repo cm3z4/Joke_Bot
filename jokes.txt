@@ -524,3 +524,6 @@ Commit: Tue Jun 11 18:25:01 CDT 2019
 What do you do when you see a space man?
 Park your car, man.
 
+Commit: Tue Jun 11 19:25:01 CDT 2019
+Why can't your nose be 12 inches long? Because then it'd be a foot!
+
