@@ -542,3 +542,6 @@ Why do birds fly south for the winter? Because it's too far to walk.
 Commit: Wed Jun 12 10:25:01 CDT 2019
 Why didn’t the skeleton cross the road? Because he had no guts.
 
+Commit: Wed Jun 12 13:25:01 CDT 2019
+What’s the advantage of living in Switzerland? Well, the flag is a big plus.
+
