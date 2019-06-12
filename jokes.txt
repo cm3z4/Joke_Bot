@@ -527,3 +527,6 @@ Park your car, man.
 Commit: Tue Jun 11 19:25:01 CDT 2019
 Why can't your nose be 12 inches long? Because then it'd be a foot!
 
+Commit: Tue Jun 11 20:25:01 CDT 2019
+What do vegetarian zombies eat? Grrrrrainnnnnssss.
+
