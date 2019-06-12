@@ -539,3 +539,6 @@ I don't trust stairs. They're always up to something.
 Commit: Wed Jun 12 09:25:01 CDT 2019
 Why do birds fly south for the winter? Because it's too far to walk.
 
+Commit: Wed Jun 12 10:25:01 CDT 2019
+Why didn’t the skeleton cross the road? Because he had no guts.
+
