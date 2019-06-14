@@ -608,3 +608,6 @@ Why was it called the dark ages? Because of all the knights.
 Commit: Fri Jun 14 09:25:01 CDT 2019
 What do you get when you cross a snowman with a vampire? Frostbite.
 
+Commit: Fri Jun 14 10:25:02 CDT 2019
+It’s hard to explain puns to kleptomaniacs, because they take everything literally.
+
