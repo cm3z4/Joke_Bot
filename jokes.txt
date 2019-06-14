@@ -605,3 +605,6 @@ Why does it take longer to get from 1st to 2nd base, than it does to get from 2n
 Commit: Fri Jun 14 08:25:01 CDT 2019
 Why was it called the dark ages? Because of all the knights. 
 
+Commit: Fri Jun 14 09:25:01 CDT 2019
+What do you get when you cross a snowman with a vampire? Frostbite.
+
