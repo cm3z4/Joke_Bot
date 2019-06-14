@@ -602,3 +602,6 @@ Why did the coffee file a police report? It got mugged.
 Commit: Thu Jun 13 22:25:01 CDT 2019
 Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because there’s a Shortstop in between!
 
+Commit: Fri Jun 14 08:25:01 CDT 2019
+Why was it called the dark ages? Because of all the knights. 
+
