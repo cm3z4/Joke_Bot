@@ -617,3 +617,6 @@ My New Years resolution is to stop leaving things so late.
 Commit: Fri Jun 14 20:25:01 CDT 2019
 Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
 
+Commit: Sat Jun 15 14:25:01 CDT 2019
+What do you get when you cross a chicken with a skunk? A fowl smell!
+
