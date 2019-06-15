@@ -614,3 +614,6 @@ It’s hard to explain puns to kleptomaniacs, because they take everything liter
 Commit: Fri Jun 14 18:25:01 CDT 2019
 My New Years resolution is to stop leaving things so late.
 
+Commit: Fri Jun 14 20:25:01 CDT 2019
+Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
+
