@@ -630,3 +630,6 @@ They're really good at it.
 Commit: Sun Jun 16 20:25:01 CDT 2019
 Sore throats are a pain in the neck!
 
+Commit: Sun Jun 16 22:25:01 CDT 2019
+It’s hard to explain puns to kleptomaniacs, because they take everything literally.
+
