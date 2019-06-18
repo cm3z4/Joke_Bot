@@ -642,3 +642,7 @@ Did you hear about the submarine industry? It really took a dive...
 Commit: Mon Jun 17 18:25:01 CDT 2019
 Did you hear that David lost his ID in prague? Now we just have to call him Dav.
 
+Commit: Mon Jun 17 20:25:01 CDT 2019
+What do you do when you see a space man?
+Park your car, man.
+
