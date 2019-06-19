@@ -661,3 +661,6 @@ What did the scarf say to the hat? You go on ahead, I am going to hang around a 
 Commit: Tue Jun 18 18:25:01 CDT 2019
 How do you know if there’s an elephant under your bed? Your head hits the ceiling!
 
+Commit: Tue Jun 18 20:25:01 CDT 2019
+How come the stadium got hot after the game? Because all of the fans left.
+
