@@ -670,3 +670,6 @@ What did the mountain climber name his son? Cliff.
 Commit: Wed Jun 19 20:25:01 CDT 2019
 What do you call a pig that knows karate? A pork chop!
 
+Commit: Wed Jun 19 22:25:01 CDT 2019
+Did you hear the one about the guy with the broken hearing aid? Neither did he.
+
