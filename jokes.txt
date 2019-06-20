@@ -667,3 +667,6 @@ How come the stadium got hot after the game? Because all of the fans left.
 Commit: Wed Jun 19 14:25:01 CDT 2019
 What did the mountain climber name his son? Cliff.
 
+Commit: Wed Jun 19 20:25:01 CDT 2019
+What do you call a pig that knows karate? A pork chop!
+
