@@ -673,3 +673,6 @@ What do you call a pig that knows karate? A pork chop!
 Commit: Wed Jun 19 22:25:01 CDT 2019
 Did you hear the one about the guy with the broken hearing aid? Neither did he.
 
+Commit: Thu Jun 20 10:25:01 CDT 2019
+If at first you don't succeed, sky diving is not for you!
+
