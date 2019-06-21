@@ -688,3 +688,6 @@ Who is the coolest Doctor in the hospital? The hip Doctor!
 Commit: Fri Jun 21 12:25:01 CDT 2019
 Why did the melons plan a big wedding? Because they cantaloupe!
 
+Commit: Fri Jun 21 16:25:01 CDT 2019
+How do you get a baby alien to sleep?  You rocket.
+
