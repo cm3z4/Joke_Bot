@@ -703,3 +703,6 @@ I thought my wife was joking when she said she'd leave me if I didn't stop signi
 Commit: Sun Jun 23 20:25:01 CDT 2019
 Don't buy flowers at a monastery. Because only you can prevent florist friars.
 
+Commit: Sun Jun 23 22:25:01 CDT 2019
+Why is the ocean always blue? Because the shore never waves back.
+
