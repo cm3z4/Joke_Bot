@@ -742,3 +742,6 @@ A Skeleton walked into a bar he said I need a beer and a mop
 Commit: Thu Jun 27 02:25:01 CDT 2019
 Don’t interrupt someone working intently on a puzzle. Chances are, you’ll hear some crosswords.
 
+Commit: Thu Jun 27 04:25:01 CDT 2019
+What's black and white and read all over? The newspaper.
+
