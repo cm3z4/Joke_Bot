@@ -754,3 +754,6 @@ The great thing about stationery shops is they're always in the same place...
 Commit: Thu Jun 27 14:25:01 CDT 2019
 I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
 
+Commit: Thu Jun 27 16:25:01 CDT 2019
+What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.
+
