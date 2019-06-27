@@ -736,3 +736,6 @@ I dreamed about drowning in an ocean made out of orange soda last night. It took
 Commit: Wed Jun 26 22:25:01 CDT 2019
 Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
 
+Commit: Thu Jun 27 00:25:01 CDT 2019
+A Skeleton walked into a bar he said I need a beer and a mop
+
