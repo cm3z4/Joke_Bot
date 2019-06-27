@@ -745,3 +745,6 @@ Don’t interrupt someone working intently on a puzzle. Chances are, you’ll he
 Commit: Thu Jun 27 04:25:01 CDT 2019
 What's black and white and read all over? The newspaper.
 
+Commit: Thu Jun 27 06:25:01 CDT 2019
+Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.
+
