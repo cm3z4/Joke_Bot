@@ -760,3 +760,6 @@ What's the difference between a hippo and a zippo? One is really heavy, the othe
 Commit: Thu Jun 27 18:25:01 CDT 2019
 What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
 
+Commit: Thu Jun 27 20:25:01 CDT 2019
+What kind of award did the dentist receive? A little plaque.
+
