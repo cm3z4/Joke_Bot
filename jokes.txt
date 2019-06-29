@@ -776,3 +776,6 @@ Scratch Paper!
 Commit: Sat Jun 29 16:25:01 CDT 2019
 What do birds give out on Halloween? Tweets.
 
+Commit: Sat Jun 29 18:25:01 CDT 2019
+What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
+
