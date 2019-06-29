@@ -769,3 +769,7 @@ Ben & Jerry's really need to improve their operation. The only way to get there 
 Commit: Fri Jun 28 20:25:01 CDT 2019
 What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
 
+Commit: Fri Jun 28 22:25:01 CDT 2019
+Where do cats write notes?
+Scratch Paper!
+
