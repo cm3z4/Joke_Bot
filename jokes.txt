@@ -766,3 +766,6 @@ What kind of award did the dentist receive? A little plaque.
 Commit: Thu Jun 27 22:25:01 CDT 2019
 Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.
 
+Commit: Fri Jun 28 20:25:01 CDT 2019
+What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
+
