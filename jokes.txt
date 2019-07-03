@@ -804,3 +804,6 @@ I'm glad I know sign language, it's pretty handy.
 Commit: Tue Jul  2 14:25:01 CDT 2019
 Why are mummys scared of vacation? They're afraid to unwind.
 
+Commit: Tue Jul  2 20:25:01 CDT 2019
+What's orange and sounds like a parrot? A Carrot.
+
