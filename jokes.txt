@@ -810,3 +810,6 @@ What's orange and sounds like a parrot? A Carrot.
 Commit: Tue Jul  2 22:25:01 CDT 2019
 When is a door not a door? When it's ajar.
 
+Commit: Wed Jul  3 10:25:01 CDT 2019
+A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
+
