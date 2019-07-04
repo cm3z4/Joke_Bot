@@ -829,3 +829,6 @@ A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel 
 Commit: Thu Jul  4 16:25:01 CDT 2019
 This furniture store keeps emailing me, all I wanted was one night stand!
 
+Commit: Thu Jul  4 18:25:01 CDT 2019
+Have you heard about corduroy pillows?  They're making headlines!
+
