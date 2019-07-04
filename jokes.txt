@@ -819,3 +819,6 @@ I bought shoes from a drug dealer once. I don't know what he laced them with, bu
 Commit: Thu Jul  4 10:25:01 CDT 2019
 Did you hear the news? FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.
 
+Commit: Thu Jul  4 12:25:01 CDT 2019
+What's black and white and read all over? The newspaper.
+
