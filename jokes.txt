@@ -866,3 +866,8 @@ What's blue and not very heavy?  Light blue.
 Commit: Mon Jul  8 20:25:01 CDT 2019
 What did the traffic light say to the car as it passed? "Don't look I'm changing!"
 
+Commit: Mon Jul  8 22:25:01 CDT 2019
+What's the worst part about being a cross-eyed teacher?
+
+They can't control their pupils.
+
