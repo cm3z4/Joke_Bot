@@ -877,3 +877,7 @@ I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
 Commit: Tue Jul  9 12:25:01 CDT 2019
 
 
+Commit: Tue Jul  9 14:25:01 CDT 2019
+What is the best way to carve?
+Whittle by whittle.
+
