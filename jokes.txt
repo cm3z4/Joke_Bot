@@ -908,3 +908,6 @@ Why was ten scared of seven? Because seven ate nine.
 Commit: Thu Jul 11 06:25:01 CDT 2019
 Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
 
+Commit: Thu Jul 11 10:25:01 CDT 2019
+What was a more important invention than the first telephone? The second one.
+
