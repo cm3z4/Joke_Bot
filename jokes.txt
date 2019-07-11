@@ -911,3 +911,6 @@ Why does a Moon-rock taste better than an Earth-rock? Because it's a little mete
 Commit: Thu Jul 11 10:25:01 CDT 2019
 What was a more important invention than the first telephone? The second one.
 
+Commit: Thu Jul 11 12:25:01 CDT 2019
+They laughed when I said I wanted to be a comedian – they’re not laughing now.
+
