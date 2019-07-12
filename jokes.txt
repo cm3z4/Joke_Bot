@@ -923,3 +923,6 @@ Did you hear the joke about the wandering nun? She was a roman catholic.
 Commit: Fri Jul 12 10:25:01 CDT 2019
 How do the trees get on the internet? They log on.
 
+Commit: Fri Jul 12 12:25:01 CDT 2019
+Where do bees go to the bathroom?  The BP station.
+
