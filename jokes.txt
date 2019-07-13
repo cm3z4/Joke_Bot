@@ -941,3 +941,6 @@ Did you hear about the cow who jumped over the barbed wire fence? It was udder d
 Commit: Sat Jul 13 16:25:01 CDT 2019
 I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
 
+Commit: Sat Jul 13 18:25:01 CDT 2019
+What do you call a sheep with no legs? A cloud.
+
