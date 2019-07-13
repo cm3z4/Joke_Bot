@@ -935,3 +935,6 @@ What did the judge say to the dentist? Do you swear to pull the tooth, the whole
 Commit: Sat Jul 13 12:25:01 CDT 2019
 My pet mouse 'Elvis' died last night. He was caught in a trap..
 
+Commit: Sat Jul 13 14:25:01 CDT 2019
+Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.
+
