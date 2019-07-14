@@ -944,3 +944,6 @@ I wear a stethoscope so that in a medical emergency I can teach people a valuabl
 Commit: Sat Jul 13 18:25:01 CDT 2019
 What do you call a sheep with no legs? A cloud.
 
+Commit: Sun Jul 14 16:25:01 CDT 2019
+I went to the zoo the other day, there was only one dog in it. It was a shitzu.
+
