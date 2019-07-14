@@ -947,3 +947,6 @@ What do you call a sheep with no legs? A cloud.
 Commit: Sun Jul 14 16:25:01 CDT 2019
 I went to the zoo the other day, there was only one dog in it. It was a shitzu.
 
+Commit: Sun Jul 14 18:25:01 CDT 2019
+What do you get when you cross a rabbit with a water hose? Hare spray.
+
