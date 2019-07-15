@@ -950,3 +950,6 @@ I went to the zoo the other day, there was only one dog in it. It was a shitzu.
 Commit: Sun Jul 14 18:25:01 CDT 2019
 What do you get when you cross a rabbit with a water hose? Hare spray.
 
+Commit: Sun Jul 14 20:25:02 CDT 2019
+What happens when you anger a brain surgeon? They will give you a piece of your mind.
+
