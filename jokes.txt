@@ -977,3 +977,6 @@ What did the Red light say to the Green light? Don't look at me I'm changing!
 Commit: Tue Jul 16 22:25:01 CDT 2019
 What type of music do balloons hate? Pop music!
 
+Commit: Wed Jul 17 14:25:01 CDT 2019
+What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.
+
