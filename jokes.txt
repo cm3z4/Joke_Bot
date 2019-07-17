@@ -971,3 +971,6 @@ How many tickles does it take to tickle an octopus? Ten-tickles!
 Commit: Tue Jul 16 18:25:01 CDT 2019
 What did the left eye say to the right eye? Between us, something smells!
 
+Commit: Tue Jul 16 20:25:01 CDT 2019
+What did the Red light say to the Green light? Don't look at me I'm changing!
+
