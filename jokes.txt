@@ -983,3 +983,6 @@ What do you call a crowd of chess players bragging about their wins in a hotel l
 Commit: Wed Jul 17 20:25:01 CDT 2019
 I made a belt out of watches once... It was a waist of time.
 
+Commit: Wed Jul 17 22:25:01 CDT 2019
+What do you call someone with no nose? Nobody knows.
+
