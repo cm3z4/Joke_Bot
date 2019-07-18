@@ -989,3 +989,6 @@ What do you call someone with no nose? Nobody knows.
 Commit: Thu Jul 18 10:25:01 CDT 2019
 Want to hear a joke about construction? Nah, I'm still working on it.
 
+Commit: Thu Jul 18 14:25:01 CDT 2019
+I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.
+
