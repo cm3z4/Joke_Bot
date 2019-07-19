@@ -1001,3 +1001,6 @@ What did the grape do when he got stepped on? He let out a little wine.
 Commit: Thu Jul 18 20:25:01 CDT 2019
 You can't run through a camp site. You can only ran, because it's past tents.
 
+Commit: Thu Jul 18 22:25:01 CDT 2019
+What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+
