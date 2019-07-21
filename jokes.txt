@@ -1044,3 +1044,6 @@ Did you hear about the scientist who was lab partners with a pot of boiling wate
 Commit: Sun Jul 21 06:25:01 CDT 2019
 My cat was just sick on the carpet, I don’t think it’s feline well.
 
+Commit: Sun Jul 21 08:25:01 CDT 2019
+What do you get when you cross a chicken with a skunk? A fowl smell!
+
