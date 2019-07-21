@@ -1032,3 +1032,6 @@ Don't tell secrets in corn fields. Too many ears around.
 Commit: Sat Jul 20 22:25:01 CDT 2019
 Why should you never trust a pig with a secret? Because it's bound to squeal.
 
+Commit: Sun Jul 21 00:25:01 CDT 2019
+Geology rocks, but Geography is where it's at!
+
