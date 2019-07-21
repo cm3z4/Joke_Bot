@@ -1038,3 +1038,6 @@ Geology rocks, but Geography is where it's at!
 Commit: Sun Jul 21 02:25:01 CDT 2019
 Chances are if you' ve seen one shopping center, you've seen a mall.
 
+Commit: Sun Jul 21 04:25:01 CDT 2019
+Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
+
