@@ -1029,3 +1029,6 @@ What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
 Commit: Sat Jul 20 20:25:01 CDT 2019
 Don't tell secrets in corn fields. Too many ears around.
 
+Commit: Sat Jul 20 22:25:01 CDT 2019
+Why should you never trust a pig with a secret? Because it's bound to squeal.
+
