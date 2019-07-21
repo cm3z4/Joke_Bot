@@ -1035,3 +1035,6 @@ Why should you never trust a pig with a secret? Because it's bound to squeal.
 Commit: Sun Jul 21 00:25:01 CDT 2019
 Geology rocks, but Geography is where it's at!
 
+Commit: Sun Jul 21 02:25:01 CDT 2019
+Chances are if you' ve seen one shopping center, you've seen a mall.
+
