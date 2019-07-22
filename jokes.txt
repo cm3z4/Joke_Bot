@@ -1065,3 +1065,6 @@ When do doctors get angry? When they run out of patients.
 Commit: Sun Jul 21 22:25:02 CDT 2019
 What's blue and not very heavy?  Light blue.
 
+Commit: Mon Jul 22 18:25:01 CDT 2019
+Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
+
