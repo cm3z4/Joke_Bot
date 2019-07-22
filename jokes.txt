@@ -1059,3 +1059,6 @@ I was at the library and asked if they have any books on "paranoia", the librari
 Commit: Sun Jul 21 18:25:01 CDT 2019
 What do you call an eagle who can play the piano? Talonted!
 
+Commit: Sun Jul 21 20:25:01 CDT 2019
+When do doctors get angry? When they run out of patients.
+
