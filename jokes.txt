@@ -1068,3 +1068,6 @@ What's blue and not very heavy?  Light blue.
 Commit: Mon Jul 22 18:25:01 CDT 2019
 Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
 
+Commit: Mon Jul 22 20:25:01 CDT 2019
+What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+
