@@ -1100,3 +1100,6 @@ What do you call an old snowman? Water.
 Commit: Fri 26 Jul 2019 09:48:46 PM CDT
 I don't trust stairs. They're always up to something.
 
+Commit: Thu 08 Aug 2019 07:58:25 PM CDT
+What does a pirate pay for his corn? A buccaneer!
+
