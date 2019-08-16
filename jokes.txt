@@ -1103,3 +1103,6 @@ I don't trust stairs. They're always up to something.
 Commit: Thu 08 Aug 2019 07:58:25 PM CDT
 What does a pirate pay for his corn? A buccaneer!
 
+Commit: Thu Aug 15 21:29:25 CDT 2019
+Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
+
