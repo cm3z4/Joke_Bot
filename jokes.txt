@@ -1112,3 +1112,6 @@ What do you call a careful wolf? Aware wolf.
 Commit: Wed Aug 28 20:30:59 CDT 2019
 A man is washing the car with his son. The son asks...... "Dad, can’t you just use a sponge?"
 
+Commit: Thu Aug 29 18:17:37 CDT 2019
+What do you call a duck that gets all A's? A wise quacker.
+
