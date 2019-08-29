@@ -1115,3 +1115,6 @@ A man is washing the car with his son. The son asks...... "Dad, can’t you just
 Commit: Thu Aug 29 18:17:37 CDT 2019
 What do you call a duck that gets all A's? A wise quacker.
 
+Commit: Thu Aug 29 18:19:24 CDT 2019
+What do you call a droid that takes the long way around? R2 detour.
+
