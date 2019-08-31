@@ -1118,3 +1118,6 @@ What do you call a duck that gets all A's? A wise quacker.
 Commit: Thu Aug 29 18:19:24 CDT 2019
 What do you call a droid that takes the long way around? R2 detour.
 
+Commit: Fri Aug 30 19:40:49 CDT 2019
+Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
+
