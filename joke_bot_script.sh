@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # Author: cm3z4 ----------------------------------------------------------
-
+# Contributor: cosasdepuma -----------------------------------------------
+#
 #      ██╗ ██████╗ ██╗  ██╗███████╗    ██████╗  ██████╗ ████████╗
 #      ██║██╔═══██╗██║ ██╔╝██╔════╝    ██╔══██╗██╔═══██╗╚══██╔══╝
 #      ██║██║   ██║█████╔╝ █████╗      ██████╔╝██║   ██║   ██║
@@ -32,6 +33,9 @@
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 
+# Creates the service variable
+service="https://icanhazdadjoke.com/"
+
 # Creates the date variable.
 
 commitDate="Commit: $(date)"
@@ -40,17 +44,22 @@ commitDate="Commit: $(date)"
 
 output_file="jokes.txt"
 
-# Changes the directory to where the log will be created.
 # YOU WILL NEED TO CHANGE THE BELOW PATH TO THE DIRECTORY WHERE YOU PLACED THIS SCRIPT!!!
 # Example: ~/Downloads/Joke_Bot/
 
-cd ~/Drive/Projects/Scripts/Joke_Bot/
+directory="~/Drive/Projects/Scripts/Joke_Bot/"
+
+# Changes the directory to where the log will be created.
+test -d $directory && cd $directory || exit 1
 
 # Logs the date variable to the given text file below.
 echo "$commitDate" >> $output_file
 
+# Check if the service is available
+curl -sfo /dev/null $service || exit 1
+
 # Grabs a single joke from icanhazdadjoke.com and logs it to the given text file.
-curl -H "Accept: text/plain" https://icanhazdadjoke.com/ >> $output_file
+curl -sH "Accept: text/plain" $service >> $output_file
 
 # Adds some spacing between jokes.
 printf "\n\n" >> $output_file
