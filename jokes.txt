@@ -1136,3 +1136,6 @@ How do you steal a coat? You jacket.
 Commit: Sun Sep  1 18:50:13 CDT 2019
 Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.
 
+Commit: Sun Sep  1 18:51:22 CDT 2019
+Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
+
