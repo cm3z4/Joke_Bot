@@ -1178,3 +1178,6 @@ Why did the teddy bear say “no” to dessert? Because she was stuffed.
 Commit: Sun Sep  1 19:49:46 CDT 2019
 Why don’t skeletons ever go trick or treating? Because they have nobody to go with.
 
+Commit: Sun Sep  1 19:58:01 CDT 2019
+A man tried to sell me a coffin today. I told him that's the last thing I need.
+
