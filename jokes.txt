@@ -1247,3 +1247,6 @@ What do you call a duck that gets all A's? A wise quacker.
 Commit: Mon Sep  2 16:13:53 CDT 2019
 What do you call someone with no nose? Nobody knows.
 
+Commit: Mon Sep  2 17:00:01 CDT 2019
+What do I look like? A JOKE MACHINE!?
+
