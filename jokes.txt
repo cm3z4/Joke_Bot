@@ -1163,3 +1163,6 @@ Did you know crocodiles could grow up to 15 feet? But most just have 4.
 Commit: Sun Sep  1 19:09:45 CDT 2019
 "Dad, I'm hungry." Hello, Hungry. I'm Dad.
 
+Commit: Sun Sep  1 19:10:37 CDT 2019
+What do you call an alligator in a vest? An in-vest-igator!
+
