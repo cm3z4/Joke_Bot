@@ -1187,3 +1187,6 @@ What do you do when your bunny gets wet? You get your hare dryer.
 Commit: Sun Sep  1 21:00:01 CDT 2019
 Don't tell secrets in corn fields. Too many ears around.
 
+Commit: Sun Sep  1 22:00:01 CDT 2019
+How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
+
