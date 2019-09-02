@@ -1148,3 +1148,6 @@ Some people say that comedians who tell one too many light bulb jokes soon burn 
 Commit: Sun Sep  1 19:01:16 CDT 2019
 I went to the zoo the other day, there was only one dog in it. It was a shitzu.
 
+Commit: Sun Sep  1 19:04:07 CDT 2019
+Why didn't the number 4 get into the nightclub? Because he is 2 square.
+
