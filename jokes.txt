@@ -1232,3 +1232,6 @@ Feeling pretty proud of myself. The Sesame Street puzzle I bought said 3-5 years
 Commit: Mon Sep  2 12:00:01 CDT 2019
 Why should you never trust a pig with a secret? Because it's bound to squeal.
 
+Commit: Mon Sep  2 13:00:01 CDT 2019
+What kind of dinosaur loves to sleep? A stega-snore-us.
+
