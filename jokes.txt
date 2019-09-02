@@ -1235,3 +1235,6 @@ Why should you never trust a pig with a secret? Because it's bound to squeal.
 Commit: Mon Sep  2 13:00:01 CDT 2019
 What kind of dinosaur loves to sleep? A stega-snore-us.
 
+Commit: Mon Sep  2 14:00:01 CDT 2019
+What is the leading cause of dry skin? Towels
+
