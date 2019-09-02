@@ -1181,3 +1181,6 @@ Why don’t skeletons ever go trick or treating? Because they have nobody to go 
 Commit: Sun Sep  1 19:58:01 CDT 2019
 A man tried to sell me a coffin today. I told him that's the last thing I need.
 
+Commit: Sun Sep  1 20:00:01 CDT 2019
+What do you do when your bunny gets wet? You get your hare dryer.
+
