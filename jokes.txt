@@ -1154,3 +1154,6 @@ Why didn't the number 4 get into the nightclub? Because he is 2 square.
 Commit: Sun Sep  1 19:04:14 CDT 2019
 Dad I’m hungry’ … ‘Hi hungry I’m dad
 
+Commit: Sun Sep  1 19:05:37 CDT 2019
+What kind of tree fits in your hand? A palm tree!
+
