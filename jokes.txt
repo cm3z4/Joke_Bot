@@ -1229,3 +1229,6 @@ I went on a date last night with a girl from the zoo. It was great. She’s a ke
 Commit: Mon Sep  2 11:00:01 CDT 2019
 Feeling pretty proud of myself. The Sesame Street puzzle I bought said 3-5 years, but I finished it in 18 months.
 
+Commit: Mon Sep  2 12:00:01 CDT 2019
+Why should you never trust a pig with a secret? Because it's bound to squeal.
+
