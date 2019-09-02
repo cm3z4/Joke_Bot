@@ -33,39 +33,37 @@
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 
-# Creates the service variable
+# Create the service variable.
 service="https://icanhazdadjoke.com/"
 
-# Creates the date variable.
-
+# Create the date variable.
 commitDate="Commit: $(date)"
 
-# Creates the output file variable. You can rename the "jokes.txt" as needed.
-
-output_file="jokes.txt"
+# Create the output file variable. You can rename the "jokes.txt" as needed.
+outputFile="jokes.txt"
 
 # YOU WILL NEED TO CHANGE THE BELOW PATH TO THE DIRECTORY WHERE YOU PLACED THIS SCRIPT!!!
 # Example: ~/Downloads/Joke_Bot/
 
 directory="~/Drive/Projects/Scripts/Joke_Bot/"
 
-# Changes the directory to where the log will be created.
-test -d $directory && cd $directory || exit 1
+# Change the directory to the script's location.
+if test -d $directory; then cd $directory; fi
 
-# Logs the date variable to the given text file below.
-echo "$commitDate" >> $output_file
+# Print the date to the output file.
+echo "$commitDate" >> $outputFile
 
-# Check if the service is available
+# Check if the service is available.
 curl -sfo /dev/null $service || exit 1
 
-# Grabs a single joke from icanhazdadjoke.com and logs it to the given text file.
-curl -sH "Accept: text/plain" $service >> $output_file
+# Grab a single joke from icanhazdadjoke.com and print it to the output file.
+curl -sH "Accept: text/plain" $service >> $outputFile
 
-# Adds some spacing between jokes.
-printf "\n\n" >> $output_file
+# Add some spacing between jokes.
+printf "\n\n" >> $outputFile
 
-# Commit after the joke has been received and added to the output file.
-git add $output_file
+# Commit after the joke has been received and printed to the output file.
+git add $outputFile
 git commit -m "$commitDate"
 git push origin master
 
