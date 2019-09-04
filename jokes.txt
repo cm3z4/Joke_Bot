@@ -1279,3 +1279,6 @@ Camping is intense.
 Commit: Wed Sep  4 15:13:26 CDT 2019
 I tried to write a chemistry joke, but could never get a reaction.
 
+Commit: Wed Sep  4 16:00:01 CDT 2019
+Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
+
