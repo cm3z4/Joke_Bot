@@ -1297,3 +1297,6 @@ Why did the burglar hang his mugshot on the wall? To prove that he was framed!
 Commit: Wed Sep  4 21:00:01 CDT 2019
 This furniture store keeps emailing me, all I wanted was one night stand!
 
+Commit: Thu Sep  5 09:00:01 CDT 2019
+“My Dog has no nose.” “How does he smell?” “Awful”
+
