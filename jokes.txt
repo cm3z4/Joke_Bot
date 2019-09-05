@@ -1306,3 +1306,6 @@ Today a girl said she recognized me from vegetarian club, but I’m sure I’ve 
 Commit: Thu Sep  5 11:00:01 CDT 2019
 I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
 
+Commit: Thu Sep  5 17:00:24 CDT 2019
+Where do young cows eat lunch? In the calf-ateria.
+
