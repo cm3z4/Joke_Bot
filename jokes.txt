@@ -1318,3 +1318,6 @@ Did you hear about the guy whose whole left side was cut off? He's all right now
 Commit: Fri Sep  6 17:00:01 CDT 2019
 What kind of bagel can fly? A plain bagel.
 
+Commit: Fri Sep  6 18:00:01 CDT 2019
+There's not really any training for garbagemen. They just pick things up as they go.
+
