@@ -1342,3 +1342,6 @@ Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
 Commit: Sun Sep  8 03:00:01 CDT 2019
 How do you know if there’s an elephant under your bed? Your head hits the ceiling!
 
+Commit: Sun Sep  8 04:00:01 CDT 2019
+A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
+
