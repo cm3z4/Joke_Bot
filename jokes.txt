@@ -1357,3 +1357,6 @@ What did the beaver say to the tree? It's been nice gnawing you.
 Commit: Sun Sep  8 08:00:01 CDT 2019
 A termite walks into a bar and asks “Is the bar tender here?”
 
+Commit: Sun Sep  8 09:00:01 CDT 2019
+How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
+
