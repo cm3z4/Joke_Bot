@@ -1382,3 +1382,6 @@ What do you call cheese by itself? Provolone.
 Commit: Sun Sep  8 16:00:01 CDT 2019
 Our wedding was so beautiful, even the cake was in tiers.
 
+Commit: Sun Sep  8 17:00:01 CDT 2019
+I was thinking about moving to Moscow but there is no point Russian into things.
+
