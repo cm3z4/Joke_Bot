@@ -1372,3 +1372,7 @@ What do you call a fly without wings? A walk.
 Commit: Sun Sep  8 13:00:01 CDT 2019
 What lies at the bottom of the ocean and twitches? A nervous wreck.
 
+Commit: Sun Sep  8 14:00:01 CDT 2019
+What's the difference between a seal and a sea lion?
+An ion! 
+
