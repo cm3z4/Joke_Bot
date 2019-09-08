@@ -1348,3 +1348,6 @@ A ghost walks into a bar and asks for a glass of vodka but the bar tender says, 
 Commit: Sun Sep  8 05:00:01 CDT 2019
 What's black and white and read all over? The newspaper.
 
+Commit: Sun Sep  8 06:00:01 CDT 2019
+What do you call a guy lying on your doorstep? Matt.
+
