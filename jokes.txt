@@ -1345,3 +1345,6 @@ How do you know if there’s an elephant under your bed? Your head hits the ceil
 Commit: Sun Sep  8 04:00:01 CDT 2019
 A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
 
+Commit: Sun Sep  8 05:00:01 CDT 2019
+What's black and white and read all over? The newspaper.
+
