@@ -1366,3 +1366,6 @@ Did you know that ghosts call their true love their ghoul-friend?
 Commit: Sun Sep  8 11:00:01 CDT 2019
 What did the beaver say to the tree? It's been nice gnawing you.
 
+Commit: Sun Sep  8 12:00:01 CDT 2019
+What do you call a fly without wings? A walk.
+
