@@ -1397,3 +1397,7 @@ Sometimes I tuck my knees into my chest and lean forward.  That’s just how I r
 Commit: Mon Sep  9 16:00:01 CDT 2019
 Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.
 
+Commit: Mon Sep  9 18:00:01 CDT 2019
+What do you call a monkey in a mine field? A babooooom!
+
+
