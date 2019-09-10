@@ -1423,3 +1423,6 @@ Never take advice from electrons. They are always negative.
 Commit: Tue Sep 10 17:00:01 CDT 2019
 Thanks for explaining the word "many" to me. It means a lot.
 
+Commit: Tue Sep 10 18:00:01 CDT 2019
+I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
+
