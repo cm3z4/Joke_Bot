@@ -1414,3 +1414,6 @@ What do you call a fake noodle? An impasta.
 Commit: Tue Sep 10 12:00:01 CDT 2019
 How much does a hipster weigh? An instagram.
 
+Commit: Tue Sep 10 15:00:01 CDT 2019
+I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.
+
