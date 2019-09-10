@@ -1411,3 +1411,6 @@ Parallel lines have so much in common. It’s a shame they’ll never meet.
 Commit: Tue Sep 10 11:00:01 CDT 2019
 What do you call a fake noodle? An impasta.
 
+Commit: Tue Sep 10 12:00:01 CDT 2019
+How much does a hipster weigh? An instagram.
+
