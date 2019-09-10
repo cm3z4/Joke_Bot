@@ -1420,3 +1420,6 @@ I went to a book store and asked the saleswoman where the Self Help section was,
 Commit: Tue Sep 10 16:00:01 CDT 2019
 Never take advice from electrons. They are always negative.
 
+Commit: Tue Sep 10 17:00:01 CDT 2019
+Thanks for explaining the word "many" to me. It means a lot.
+
