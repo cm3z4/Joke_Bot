@@ -1456,3 +1456,6 @@ How does a scientist freshen their breath? With experi-mints!
 Commit: Wed Sep 11 14:00:01 CDT 2019
 What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
 
+Commit: Wed Sep 11 15:00:01 CDT 2019
+The invention of the wheel was what got things rolling
+
