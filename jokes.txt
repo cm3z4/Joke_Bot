@@ -1441,3 +1441,6 @@ I wouldn't buy anything with velcro. It's a total rip-off.
 Commit: Tue Sep 10 23:00:01 CDT 2019
 What do you call a careful wolf? Aware wolf.
 
+Commit: Wed Sep 11 10:00:01 CDT 2019
+What do you call a droid that takes the long way around? R2 detour.
+
