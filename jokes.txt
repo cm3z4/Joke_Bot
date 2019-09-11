@@ -1453,3 +1453,6 @@ Why couldn't the lifeguard save the hippie? He was too far out, man.
 Commit: Wed Sep 11 13:00:01 CDT 2019
 How does a scientist freshen their breath? With experi-mints!
 
+Commit: Wed Sep 11 14:00:01 CDT 2019
+What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
+
