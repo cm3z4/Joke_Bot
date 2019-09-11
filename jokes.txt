@@ -1435,3 +1435,6 @@ So a duck walks into a pharmacy and says “Give me some chap-stick… and put i
 Commit: Tue Sep 10 21:00:01 CDT 2019
 The great thing about stationery shops is they're always in the same place...
 
+Commit: Tue Sep 10 22:00:02 CDT 2019
+I wouldn't buy anything with velcro. It's a total rip-off.
+
