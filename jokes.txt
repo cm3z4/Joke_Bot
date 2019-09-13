@@ -1481,3 +1481,6 @@ What did one nut say as he chased another nut?  I'm a cashew!
 Commit: Fri Sep 13 11:00:01 CDT 2019
 Man, I really love my furniture... me and my recliner go way back.
 
+Commit: Fri Sep 13 12:00:01 CDT 2019
+A man is washing the car with his son. The son asks...... "Dad, can’t you just use a sponge?"
+
