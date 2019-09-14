@@ -1499,3 +1499,6 @@ Why do mathematicians hate the U.S.? Because it's indivisible.
 Commit: Sat Sep 14 16:00:01 CDT 2019
 What do you call someone with no nose? Nobody knows.
 
+Commit: Sat Sep 14 17:00:01 CDT 2019
+What has ears but cannot hear? A field of corn.
+
