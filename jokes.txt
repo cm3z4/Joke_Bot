@@ -1502,3 +1502,6 @@ What do you call someone with no nose? Nobody knows.
 Commit: Sat Sep 14 17:00:01 CDT 2019
 What has ears but cannot hear? A field of corn.
 
+Commit: Sat Sep 14 18:00:01 CDT 2019
+Leather is great for sneaking around because it's made of hide.
+
