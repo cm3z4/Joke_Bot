@@ -1508,3 +1508,7 @@ Leather is great for sneaking around because it's made of hide.
 Commit: Sat Sep 14 19:00:01 CDT 2019
 What do you call a fat psychic? A four-chin teller.
 
+Commit: Sat Sep 14 20:00:01 CDT 2019
+What do you call a monkey in a mine field? A babooooom!
+
+
