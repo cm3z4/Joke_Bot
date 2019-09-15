@@ -1515,3 +1515,8 @@ What do you call a monkey in a mine field? A babooooom!
 Commit: Sun Sep 15 13:00:01 CDT 2019
 Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
 
+Commit: Sun Sep 15 14:00:01 CDT 2019
+Why did Mozart kill all his chickens?
+Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
+
+
