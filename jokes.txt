@@ -1512,3 +1512,6 @@ Commit: Sat Sep 14 20:00:01 CDT 2019
 What do you call a monkey in a mine field? A babooooom!
 
 
+Commit: Sun Sep 15 13:00:01 CDT 2019
+Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
+
