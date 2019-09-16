@@ -1539,3 +1539,6 @@ What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
 Commit: Mon Sep 16 11:00:01 CDT 2019
 For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.
 
+Commit: Mon Sep 16 12:00:01 CDT 2019
+What do you get hanging from Apple trees? Sore arms.
+
