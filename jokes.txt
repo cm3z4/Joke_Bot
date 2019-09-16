@@ -1542,3 +1542,6 @@ For Valentine's day, I decided to get my wife some beads for an abacus.  It's th
 Commit: Mon Sep 16 12:00:01 CDT 2019
 What do you get hanging from Apple trees? Sore arms.
 
+Commit: Mon Sep 16 13:00:01 CDT 2019
+Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.
+
