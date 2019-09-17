@@ -1571,3 +1571,6 @@ What's brown and sticky? A stick.
 Commit: Tue Sep 17 00:00:01 CDT 2019
 "I'm sorry." "Hi sorry, I'm dad"
 
+Commit: Tue Sep 17 01:00:01 CDT 2019
+What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.
+
