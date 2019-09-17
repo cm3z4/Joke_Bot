@@ -1609,3 +1609,6 @@ Commit: Tue Sep 17 14:00:01 CDT 2019
 Hostess: Do you have a preference of where you sit?
 Dad: Down.
 
+Commit: Tue Sep 17 15:00:01 CDT 2019
+Why do crabs never give to charity? Because they’re shellfish.
+
