@@ -1593,3 +1593,7 @@ I was wondering why the frisbee was getting bigger, then it hit me.
 Commit: Tue Sep 17 07:00:01 CDT 2019
 How does a penguin build it’s house? Igloos it together.
 
+Commit: Tue Sep 17 08:00:01 CDT 2019
+Commit: Tue Sep 17 09:00:01 CDT 2019
+Ever wondered why bees hum? It's because they don't know the words.
+
