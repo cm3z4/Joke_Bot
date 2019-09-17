@@ -1605,3 +1605,7 @@ Commit: Tue Sep 17 12:00:01 CDT 2019
 Commit: Tue Sep 17 13:00:01 CDT 2019
 What do you call a sheep with no legs? A cloud.
 
+Commit: Tue Sep 17 14:00:01 CDT 2019
+Hostess: Do you have a preference of where you sit?
+Dad: Down.
+
