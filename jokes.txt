@@ -1556,3 +1556,6 @@ What is this movie about? It is about 2 hours long.
 Commit: Mon Sep 16 19:00:01 CDT 2019
 Egyptians claimed to invent the guitar, but they were such lyres.﻿
 
+Commit: Mon Sep 16 20:00:01 CDT 2019
+What is a vampire's favorite fruit? A blood orange.
+
