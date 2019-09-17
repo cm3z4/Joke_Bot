@@ -1577,3 +1577,6 @@ What's the difference between a hippo and a zippo? One is really heavy, the othe
 Commit: Tue Sep 17 02:00:01 CDT 2019
 Parallel lines have so much in common. It’s a shame they’ll never meet.
 
+Commit: Tue Sep 17 03:00:01 CDT 2019
+What animal is always at a game of cricket? A bat.
+
