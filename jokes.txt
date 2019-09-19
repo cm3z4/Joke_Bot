@@ -1634,3 +1634,6 @@ Red paint!
 Commit: Thu Sep 19 12:00:01 CDT 2019
 What do you call a group of disorganized cats? A cat-tastrophe.
 
+Commit: Thu Sep 19 13:00:01 CDT 2019
+What happens to a frog's car when it breaks down? It gets toad.
+
