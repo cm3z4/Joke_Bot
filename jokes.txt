@@ -1664,3 +1664,6 @@ What do you call a dad that has fallen through the ice? A Popsicle.
 Commit: Thu Sep 19 22:00:01 CDT 2019
 Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
 
+Commit: Thu Sep 19 23:00:01 CDT 2019
+Why couldn't the lifeguard save the hippie? He was too far out, man.
+
