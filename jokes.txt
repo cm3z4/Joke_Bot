@@ -1693,3 +1693,6 @@ Now you can talk about Botox and nobody raises an eyebrow.
 Commit: Fri Sep 20 07:00:01 CDT 2019
 What did one wall say to the other wall? I'll meet you at the corner!
 
+Commit: Fri Sep 20 08:00:01 CDT 2019
+What do prisoners use to call each other? Cell phones.
+
