@@ -1677,3 +1677,6 @@ There's not really any training for garbagemen. They just pick things up as they
 Commit: Fri Sep 20 02:00:01 CDT 2019
 Why was it called the dark ages? Because of all the knights. 
 
+Commit: Fri Sep 20 03:00:01 CDT 2019
+*Reversing the car* "Ah, this takes me back"
+
