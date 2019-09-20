@@ -1674,3 +1674,6 @@ Why was Santa's little helper feeling depressed? Because he has low elf esteem.
 Commit: Fri Sep 20 01:00:01 CDT 2019
 There's not really any training for garbagemen. They just pick things up as they go.
 
+Commit: Fri Sep 20 02:00:01 CDT 2019
+Why was it called the dark ages? Because of all the knights. 
+
