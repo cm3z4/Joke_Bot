@@ -1658,3 +1658,6 @@ What do you call corn that joins the army? Kernel.
 Commit: Thu Sep 19 20:00:01 CDT 2019
 What kind of magic do cows believe in? MOODOO.
 
+Commit: Thu Sep 19 21:00:01 CDT 2019
+What do you call a dad that has fallen through the ice? A Popsicle.
+
