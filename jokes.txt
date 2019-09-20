@@ -1661,3 +1661,6 @@ What kind of magic do cows believe in? MOODOO.
 Commit: Thu Sep 19 21:00:01 CDT 2019
 What do you call a dad that has fallen through the ice? A Popsicle.
 
+Commit: Thu Sep 19 22:00:01 CDT 2019
+Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
+
