@@ -1655,3 +1655,6 @@ Why did the man run around his bed? Because he was trying to catch up on his sle
 Commit: Thu Sep 19 19:00:01 CDT 2019
 What do you call corn that joins the army? Kernel.
 
+Commit: Thu Sep 19 20:00:01 CDT 2019
+What kind of magic do cows believe in? MOODOO.
+
