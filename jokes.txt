@@ -1652,3 +1652,6 @@ I wear a stethoscope so that in a medical emergency I can teach people a valuabl
 Commit: Thu Sep 19 18:00:01 CDT 2019
 Why did the man run around his bed? Because he was trying to catch up on his sleep!
 
+Commit: Thu Sep 19 19:00:01 CDT 2019
+What do you call corn that joins the army? Kernel.
+
