@@ -1731,3 +1731,6 @@ what do you call a dog that can do magic tricks? a labracadabrador
 Commit: Fri Sep 20 22:00:01 CDT 2019
 Why did the worker get fired from the orange juice factory? Lack of concentration.
 
+Commit: Sat Sep 21 14:00:01 CDT 2019
+Why are fish easy to weigh? Because they have their own scales.
+
