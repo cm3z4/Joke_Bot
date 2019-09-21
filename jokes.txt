@@ -1743,3 +1743,6 @@ When does a joke become a dad joke? When it becomes apparent.
 Commit: Sat Sep 21 17:00:01 CDT 2019
 Why do you never see elephants hiding in trees? Because they're so good at it.
 
+Commit: Sat Sep 21 18:00:01 CDT 2019
+Is there a hole in your shoe? No… Then how’d you get your foot in it?
+
