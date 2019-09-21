@@ -1740,3 +1740,6 @@ Why are fish easy to weigh? Because they have their own scales.
 Commit: Sat Sep 21 16:00:01 CDT 2019
 When does a joke become a dad joke? When it becomes apparent.
 
+Commit: Sat Sep 21 17:00:01 CDT 2019
+Why do you never see elephants hiding in trees? Because they're so good at it.
+
