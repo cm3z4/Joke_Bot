@@ -1758,3 +1758,6 @@ How can you tell a vampire has a cold? They start coffin.
 Commit: Sun Sep 22 13:00:01 CDT 2019
 Why did the worker get fired from the orange juice factory? Lack of concentration.
 
+Commit: Sun Sep 22 14:00:01 CDT 2019
+Two dyslexics walk into a bra.
+
