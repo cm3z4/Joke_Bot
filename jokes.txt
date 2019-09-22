@@ -1752,3 +1752,6 @@ Why are oranges the smartest fruit? Because they are made to concentrate.
 Commit: Sat Sep 21 20:00:01 CDT 2019
 What did one plate say to the other plate? Dinner is on me!
 
+Commit: Sun Sep 22 12:00:02 CDT 2019
+How can you tell a vampire has a cold? They start coffin.
+
