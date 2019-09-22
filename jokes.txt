@@ -1749,3 +1749,6 @@ Is there a hole in your shoe? No… Then how’d you get your foot in it?
 Commit: Sat Sep 21 19:00:01 CDT 2019
 Why are oranges the smartest fruit? Because they are made to concentrate. 
 
+Commit: Sat Sep 21 20:00:01 CDT 2019
+What did one plate say to the other plate? Dinner is on me!
+
