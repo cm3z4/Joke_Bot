@@ -1783,3 +1783,6 @@ Commit: Mon Sep 23 08:00:01 CDT 2019
 Commit: Mon Sep 23 09:00:01 CDT 2019
 What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
 
+Commit: Mon Sep 23 10:00:01 CDT 2019
+When does a joke become a dad joke? When it becomes apparent.
+
