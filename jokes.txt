@@ -1789,3 +1789,6 @@ When does a joke become a dad joke? When it becomes apparent.
 Commit: Mon Sep 23 11:00:01 CDT 2019
 What did one plate say to the other plate? Dinner is on me!
 
+Commit: Mon Sep 23 12:00:01 CDT 2019
+What did the left eye say to the right eye? Between us, something smells!
+
