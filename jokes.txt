@@ -1786,3 +1786,6 @@ What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
 Commit: Mon Sep 23 10:00:01 CDT 2019
 When does a joke become a dad joke? When it becomes apparent.
 
+Commit: Mon Sep 23 11:00:01 CDT 2019
+What did one plate say to the other plate? Dinner is on me!
+
