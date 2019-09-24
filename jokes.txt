@@ -1814,3 +1814,7 @@ A panda walks into a bar and says to the bartender “I’ll have a Scotch and .
 
 The panda holds up his hands and says “I was born with them”
 
+Commit: Tue Sep 24 10:00:01 CDT 2019
+Cosmetic surgery used to be such a taboo subject.
+Now you can talk about Botox and nobody raises an eyebrow.
+
