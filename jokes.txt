@@ -1867,3 +1867,6 @@ If at first you don't succeed, sky diving is not for you!
 Commit: Wed Sep 25 06:00:01 CDT 2019
 I was wondering why the frisbee was getting bigger, then it hit me.
 
+Commit: Wed Sep 25 07:00:01 CDT 2019
+Where do bees go to the bathroom?  The BP station.
+
