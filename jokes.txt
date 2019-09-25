@@ -1849,3 +1849,6 @@ Is there a hole in your shoe? No… Then how’d you get your foot in it?
 Commit: Wed Sep 25 00:00:01 CDT 2019
 It's difficult to say what my wife does, she sells sea shells by the sea shore.
 
+Commit: Wed Sep 25 01:00:01 CDT 2019
+Atheism is a non-prophet organisation.
+
