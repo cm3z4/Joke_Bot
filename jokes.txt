@@ -1882,3 +1882,6 @@ Commit: Wed Sep 25 14:00:01 CDT 2019
 What is red and smells like blue paint?
 Red paint!
 
+Commit: Wed Sep 25 15:00:01 CDT 2019
+What do you call a guy lying on your doorstep? Matt.
+
