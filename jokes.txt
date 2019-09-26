@@ -1936,3 +1936,6 @@ The word queue is ironic. It's just q with a bunch of silent letters waiting in 
 Commit: Thu Sep 26 14:00:01 CDT 2019
 Who is the coolest Doctor in the hospital? The hip Doctor!
 
+Commit: Thu Sep 26 15:00:01 CDT 2019
+Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.
+
