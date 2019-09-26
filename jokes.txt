@@ -1933,3 +1933,6 @@ The other day, my wife asked me to pass her lipstick but I accidentally passed h
 Commit: Thu Sep 26 10:00:02 CDT 2019
 The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
 
+Commit: Thu Sep 26 14:00:01 CDT 2019
+Who is the coolest Doctor in the hospital? The hip Doctor!
+
