@@ -1994,3 +1994,6 @@ What kind of pants do ghosts wear? Boo jeans.
 Commit: Sun Sep 29 17:00:01 CDT 2019
 I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
 
+Commit: Sun Sep 29 18:00:01 CDT 2019
+What's blue and not very heavy?  Light blue.
+
