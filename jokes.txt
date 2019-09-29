@@ -1983,3 +1983,8 @@ I'll tell you what often gets over looked... garden fences.
 Commit: Sat Sep 28 18:00:01 CDT 2019
 Two peanuts were walking down the street. One was a salted
 
+Commit: Sat Sep 28 19:00:01 CDT 2019
+What's large, grey, and doesn't matter?
+An irrelephant.
+
+
