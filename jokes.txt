@@ -2028,3 +2028,6 @@ Why did the teddy bear say “no” to dessert? Because she was stuffed.
 Commit: Mon Sep 30 04:00:01 CDT 2019
 How do locomotives know where they're going? Lots of training
 
+Commit: Mon Sep 30 05:00:01 CDT 2019
+A bartender broke up with her boyfriend, but he kept asking her for another shot.
+
