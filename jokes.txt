@@ -2038,3 +2038,6 @@ Commit: Mon Sep 30 07:00:01 CDT 2019
 What is the best way to carve?
 Whittle by whittle.
 
+Commit: Mon Sep 30 08:00:01 CDT 2019
+How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
+
