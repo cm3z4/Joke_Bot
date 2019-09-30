@@ -2018,3 +2018,7 @@ You will never guess what Elsa did to the balloon. She let it go.
 Commit: Mon Sep 30 01:00:01 CDT 2019
 My New Years resolution is to stop leaving things so late.
 
+Commit: Mon Sep 30 02:00:01 CDT 2019
+Hostess: Do you have a preference of where you sit?
+Dad: Down.
+
