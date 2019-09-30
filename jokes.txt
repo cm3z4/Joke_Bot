@@ -2025,3 +2025,6 @@ Dad: Down.
 Commit: Mon Sep 30 03:00:01 CDT 2019
 Why did the teddy bear say “no” to dessert? Because she was stuffed.
 
+Commit: Mon Sep 30 04:00:01 CDT 2019
+How do locomotives know where they're going? Lots of training
+
