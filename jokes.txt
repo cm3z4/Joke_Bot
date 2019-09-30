@@ -2009,3 +2009,6 @@ Why do bananas have to put on sunscreen before they go to the beach? Because the
 Commit: Sun Sep 29 22:00:01 CDT 2019
 Geology rocks, but Geography is where it's at!
 
+Commit: Sun Sep 29 23:00:01 CDT 2019
+Without geometry life is pointless.
+
