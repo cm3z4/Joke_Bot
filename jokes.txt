@@ -2044,3 +2044,6 @@ How do you tell the difference between a crocodile and an alligator? You will se
 Commit: Mon Sep 30 09:00:01 CDT 2019
 Why do valley girls hang out in odd numbered groups? Because they can't even.
 
+Commit: Mon Sep 30 10:00:01 CDT 2019
+What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
+
