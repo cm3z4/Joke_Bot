@@ -2047,3 +2047,6 @@ Why do valley girls hang out in odd numbered groups? Because they can't even.
 Commit: Mon Sep 30 10:00:01 CDT 2019
 What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
 
+Commit: Mon Sep 30 19:00:01 CDT 2019
+Did you hear the one about the guy with the broken hearing aid? Neither did he.
+
