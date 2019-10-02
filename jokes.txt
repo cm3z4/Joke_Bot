@@ -2081,3 +2081,6 @@ So, I heard this pun about cows, but it’s kinda offensive so I won’t say it.
 Commit: Wed Oct  2 01:00:01 CDT 2019
 What did the pirate say on his 80th birthday? Aye Matey!
 
+Commit: Wed Oct  2 02:00:01 CDT 2019
+I thought my wife was joking when she said she'd leave me if I didn't stop signing "I'm A Believer"... Then I saw her face.
+
