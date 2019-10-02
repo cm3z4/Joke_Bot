@@ -2084,3 +2084,7 @@ What did the pirate say on his 80th birthday? Aye Matey!
 Commit: Wed Oct  2 02:00:01 CDT 2019
 I thought my wife was joking when she said she'd leave me if I didn't stop signing "I'm A Believer"... Then I saw her face.
 
+Commit: Wed Oct  2 03:00:01 CDT 2019
+What do you call a monkey in a mine field? A babooooom!
+
+
