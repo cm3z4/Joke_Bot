@@ -2171,3 +2171,6 @@ Where does Napoleon keep his armies? In his sleevies.
 Commit: Thu Oct  3 05:00:01 CDT 2019
 It's difficult to say what my wife does, she sells sea shells by the sea shore.
 
+Commit: Thu Oct  3 06:00:02 CDT 2019
+My wife told me to rub the herbs on the meat for better flavor. That's sage advice.
+
