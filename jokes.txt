@@ -2218,3 +2218,6 @@ The other day I was listening to a song about superglue, it’s been stuck in my
 Commit: Fri Oct  4 07:00:01 CDT 2019
 Why did the chicken get a penalty? For fowl play.
 
+Commit: Fri Oct  4 09:00:01 CDT 2019
+What do you call an alligator in a vest? An in-vest-igator!
+
