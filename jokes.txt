@@ -2230,3 +2230,6 @@ A man was caught stealing in a supermarket today while balanced on the shoulders
 Commit: Fri Oct  4 17:00:01 CDT 2019
 How does the moon cut his hair? Eclipse it.
 
+Commit: Fri Oct  4 18:00:01 CDT 2019
+I asked a frenchman if he played video games. He said "Wii"
+
