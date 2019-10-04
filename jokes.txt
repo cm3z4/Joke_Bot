@@ -2187,3 +2187,6 @@ Whiteboards ... are remarkable.
 Commit: Thu Oct  3 21:00:01 CDT 2019
 The great thing about stationery shops is they're always in the same place...
 
+Commit: Thu Oct  3 22:00:01 CDT 2019
+Toasters were the first form of pop-up notifications.
+
