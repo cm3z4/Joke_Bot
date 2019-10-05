@@ -2260,3 +2260,6 @@ Why did Sweden start painting barcodes on the sides of their battleships? So the
 Commit: Sat Oct  5 03:00:01 CDT 2019
 Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
 
+Commit: Sat Oct  5 04:00:01 CDT 2019
+Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.
+
