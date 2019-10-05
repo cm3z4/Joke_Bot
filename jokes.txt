@@ -2233,3 +2233,6 @@ How does the moon cut his hair? Eclipse it.
 Commit: Fri Oct  4 18:00:01 CDT 2019
 I asked a frenchman if he played video games. He said "Wii"
 
+Commit: Fri Oct  4 19:00:01 CDT 2019
+Thanks for explaining the word "many" to me. It means a lot.
+
