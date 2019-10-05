@@ -2236,3 +2236,6 @@ I asked a frenchman if he played video games. He said "Wii"
 Commit: Fri Oct  4 19:00:01 CDT 2019
 Thanks for explaining the word "many" to me. It means a lot.
 
+Commit: Fri Oct  4 20:00:01 CDT 2019
+I heard there was a new store called Moderation. They have everything there
+
