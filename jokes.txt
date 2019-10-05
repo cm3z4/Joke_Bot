@@ -2254,3 +2254,6 @@ What did the ocean say to the beach? Thanks for all the sediment.
 Commit: Sat Oct  5 01:00:01 CDT 2019
 A man walked in to a bar with some asphalt on his arm. He said “Two beers please, one for me and one for the road.”
 
+Commit: Sat Oct  5 02:00:01 CDT 2019
+Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
+
