@@ -2279,3 +2279,6 @@ Doctor: No, humans can never hear that high of a frequency no matter what age th
 
 Me: Trick question... dogs can't whistle.
 
+Commit: Sat Oct  5 09:00:01 CDT 2019
+Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.
+
