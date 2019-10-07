@@ -2303,3 +2303,6 @@ What’s Forest Gump’s Facebook password? 1forest1
 Commit: Mon Oct  7 12:00:01 CDT 2019
 What do you call a fly without wings? A walk.
 
+Commit: Mon Oct  7 13:00:01 CDT 2019
+Why didn't the number 4 get into the nightclub? Because he is 2 square.
+
