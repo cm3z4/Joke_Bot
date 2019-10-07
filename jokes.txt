@@ -2306,3 +2306,6 @@ What do you call a fly without wings? A walk.
 Commit: Mon Oct  7 13:00:01 CDT 2019
 Why didn't the number 4 get into the nightclub? Because he is 2 square.
 
+Commit: Mon Oct  7 15:00:01 CDT 2019
+Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
+
