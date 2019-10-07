@@ -2312,3 +2312,6 @@ Can a kangaroo jump higher than the Empire State Building? Of course. The Empire
 Commit: Mon Oct  7 16:00:01 CDT 2019
 What creature is smarter than a talking parrot? A spelling bee.
 
+Commit: Mon Oct  7 17:00:01 CDT 2019
+How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
+
