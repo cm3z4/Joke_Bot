@@ -2321,3 +2321,6 @@ What do you get when you cross a rabbit with a water hose? Hare spray.
 Commit: Mon Oct  7 19:00:02 CDT 2019
 What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
 
+Commit: Mon Oct  7 20:00:01 CDT 2019
+Why don't sharks eat clowns?  Because they taste funny.
+
