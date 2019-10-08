@@ -2318,3 +2318,6 @@ How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
 Commit: Mon Oct  7 18:00:01 CDT 2019
 What do you get when you cross a rabbit with a water hose? Hare spray.
 
+Commit: Mon Oct  7 19:00:02 CDT 2019
+What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+
