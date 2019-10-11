@@ -2341,3 +2341,6 @@ There's not really any training for garbagemen. They just pick things up as they
 Commit: Fri Oct 11 17:00:01 CDT 2019
 What do you call corn that joins the army? Kernel.
 
+Commit: Fri Oct 11 18:00:01 CDT 2019
+What did one snowman say to the other snow man? Do you smell carrot?
+
