@@ -2366,3 +2366,6 @@ Did you hear about the scientist who was lab partners with a pot of boiling wate
 Commit: Thu Oct 17 12:00:01 CDT 2019
 Did you hear about the Mexican train killer? He had loco motives
 
+Commit: Thu Oct 17 13:00:01 CDT 2019
+Why did the coffee file a police report? It got mugged.
+
