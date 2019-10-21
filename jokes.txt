@@ -2376,3 +2376,6 @@ Why did the half blind man fall in the well? Because he couldn't see that well!
 Commit: Fri Oct 18 11:00:01 CDT 2019
 Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
 
+Commit: Sun Oct 20 21:00:01 CDT 2019
+Why do bees have sticky hair? Because they use honey combs!
+
