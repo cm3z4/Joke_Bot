@@ -2410,3 +2410,6 @@ Why was the broom late for the meeting? He overswept.
 Commit: Tue Oct 22 02:00:01 CDT 2019
 Why did the half blind man fall in the well? Because he couldn't see that well!
 
+Commit: Tue Oct 22 03:00:01 CDT 2019
+What is the tallest building in the world? The library – it’s got the most stories!
+
