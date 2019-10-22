@@ -2387,3 +2387,8 @@ Commit: Mon Oct 21 19:00:01 CDT 2019
 Q: What did the spaghetti say to the other spaghetti?
 A: Pasta la vista, baby!
 
+Commit: Mon Oct 21 20:00:01 CDT 2019
+What was the pumpkin’s favorite sport?
+
+Squash.
+
