@@ -2413,3 +2413,6 @@ Why did the half blind man fall in the well? Because he couldn't see that well!
 Commit: Tue Oct 22 03:00:01 CDT 2019
 What is the tallest building in the world? The library – it’s got the most stories!
 
+Commit: Tue Oct 22 04:00:01 CDT 2019
+What type of music do balloons hate? Pop music!
+
