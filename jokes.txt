@@ -2436,3 +2436,6 @@ Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
 Commit: Wed Oct 23 13:00:01 CDT 2019
 Why did the house go to the doctor? It was having window panes.
 
+Commit: Wed Oct 23 14:00:02 CDT 2019
+Why did the coffee file a police report? It got mugged.
+
