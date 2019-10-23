@@ -2433,3 +2433,6 @@ I’m on a whiskey diet. I’ve lost three days already.
 Commit: Wed Oct 23 12:00:01 CDT 2019
 Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
 
+Commit: Wed Oct 23 13:00:01 CDT 2019
+Why did the house go to the doctor? It was having window panes.
+
