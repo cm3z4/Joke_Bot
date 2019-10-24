@@ -2455,3 +2455,6 @@ Why did the octopus beat the shark in a fight? Because it was well armed.
 Commit: Thu Oct 24 10:00:02 CDT 2019
 What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
 
+Commit: Thu Oct 24 17:00:01 CDT 2019
+Have you heard about the film "Constipation", you probably haven't because it's not out yet.
+
