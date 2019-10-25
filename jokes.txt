@@ -2464,3 +2464,6 @@ Why do crabs never give to charity? Because they’re shellfish.
 Commit: Thu Oct 24 19:00:01 CDT 2019
 I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
 
+Commit: Thu Oct 24 20:00:01 CDT 2019
+Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
+
