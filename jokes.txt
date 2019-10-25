@@ -2488,3 +2488,6 @@ Two parrots are sitting on a perch. One turns to the other and asks, "do you sme
 Commit: Fri Oct 25 03:00:01 CDT 2019
 What do you call corn that joins the army? Kernel.
 
+Commit: Fri Oct 25 04:00:01 CDT 2019
+What do vegetarian zombies eat? Grrrrrainnnnnssss.
+
