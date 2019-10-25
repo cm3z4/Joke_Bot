@@ -2491,3 +2491,6 @@ What do you call corn that joins the army? Kernel.
 Commit: Fri Oct 25 04:00:01 CDT 2019
 What do vegetarian zombies eat? Grrrrrainnnnnssss.
 
+Commit: Fri Oct 25 05:00:01 CDT 2019
+What's brown and sticky? A stick.
+
