@@ -2470,3 +2470,6 @@ Did you hear about the scientist who was lab partners with a pot of boiling wate
 Commit: Thu Oct 24 21:00:01 CDT 2019
 Why is the ocean always blue? Because the shore never waves back.
 
+Commit: Thu Oct 24 22:00:01 CDT 2019
+What do you call a droid that takes the long way around? R2 detour.
+
