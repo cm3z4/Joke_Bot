@@ -2503,3 +2503,6 @@ How did the hipster burn the roof of his mouth? He ate the pizza before it was c
 Commit: Fri Oct 25 09:00:01 CDT 2019
 What does a clock do when it's hungry? It goes back four seconds!
 
+Commit: Fri Oct 25 10:00:01 CDT 2019
+Why didn’t the skeleton cross the road? Because he had no guts.
+
