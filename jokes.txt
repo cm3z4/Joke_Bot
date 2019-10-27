@@ -2525,3 +2525,6 @@ What did the grape do when he got stepped on? He let out a little wine.
 Commit: Sun Oct 27 16:00:02 CDT 2019
 A Skeleton walked into a bar he said I need a beer and a mop
 
+Commit: Sun Oct 27 17:00:01 CDT 2019
+You can't run through a camp site. You can only ran, because it's past tents.
+
