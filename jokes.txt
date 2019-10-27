@@ -2528,3 +2528,6 @@ A Skeleton walked into a bar he said I need a beer and a mop
 Commit: Sun Oct 27 17:00:01 CDT 2019
 You can't run through a camp site. You can only ran, because it's past tents.
 
+Commit: Sun Oct 27 18:00:01 CDT 2019
+Why was it called the dark ages? Because of all the knights. 
+
