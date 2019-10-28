@@ -2550,3 +2550,6 @@ Commit: Mon Oct 28 00:00:01 CDT 2019
 Hostess: Do you have a preference of where you sit?
 Dad: Down.
 
+Commit: Mon Oct 28 01:00:01 CDT 2019
+What do you call a group of killer whales playing instruments? An Orca-stra.
+
