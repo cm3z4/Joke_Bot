@@ -2559,3 +2559,6 @@ Why was it called the dark ages? Because of all the knights.
 Commit: Mon Oct 28 03:00:01 CDT 2019
 Why is Peter Pan always flying? Because he Neverlands.
 
+Commit: Mon Oct 28 04:00:01 CDT 2019
+I used to work in a shoe recycling shop. It was sole destroying.
+
