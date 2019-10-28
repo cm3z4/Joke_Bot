@@ -2574,3 +2574,6 @@ Shout out to my grandma, that's the only way she can hear.
 Commit: Mon Oct 28 12:00:01 CDT 2019
 What do you do on a remote island? Try and find the TV island it belongs to.
 
+Commit: Mon Oct 28 13:00:01 CDT 2019
+‘Put the cat out’ … ‘I didn’t realize it was on fire
+
