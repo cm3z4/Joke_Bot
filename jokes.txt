@@ -2534,3 +2534,6 @@ Why was it called the dark ages? Because of all the knights.
 Commit: Sun Oct 27 19:00:01 CDT 2019
 Did you hear that David lost his ID in prague? Now we just have to call him Dav.
 
+Commit: Sun Oct 27 20:00:01 CDT 2019
+Why did the tree go to the dentist? It needed a root canal.
+
