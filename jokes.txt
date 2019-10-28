@@ -2543,3 +2543,6 @@ Someone broke into my house last night and stole my limbo trophy. How low can yo
 Commit: Sun Oct 27 22:00:01 CDT 2019
 What type of music do balloons hate? Pop music!
 
+Commit: Sun Oct 27 23:00:01 CDT 2019
+Why do pirates not know the alphabet? They always get stuck at "C".
+
