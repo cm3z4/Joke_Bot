@@ -2546,3 +2546,7 @@ What type of music do balloons hate? Pop music!
 Commit: Sun Oct 27 23:00:01 CDT 2019
 Why do pirates not know the alphabet? They always get stuck at "C".
 
+Commit: Mon Oct 28 00:00:01 CDT 2019
+Hostess: Do you have a preference of where you sit?
+Dad: Down.
+
