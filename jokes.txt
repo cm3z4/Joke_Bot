@@ -2531,3 +2531,6 @@ You can't run through a camp site. You can only ran, because it's past tents.
 Commit: Sun Oct 27 18:00:01 CDT 2019
 Why was it called the dark ages? Because of all the knights. 
 
+Commit: Sun Oct 27 19:00:01 CDT 2019
+Did you hear that David lost his ID in prague? Now we just have to call him Dav.
+
