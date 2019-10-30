@@ -2593,3 +2593,7 @@ Why did the opera singer go sailing? They wanted to hit the high Cs.
 Commit: Tue Oct 29 21:00:01 CDT 2019
 It's difficult to say what my wife does, she sells sea shells by the sea shore.
 
+Commit: Tue Oct 29 22:00:01 CDT 2019
+Q: What did the spaghetti say to the other spaghetti?
+A: Pasta la vista, baby!
+
