@@ -2603,3 +2603,6 @@ Shout out to my grandma, that's the only way she can hear.
 Commit: Wed Oct 30 00:00:01 CDT 2019
 Why are fish easy to weigh? Because they have their own scales.
 
+Commit: Wed Oct 30 01:00:01 CDT 2019
+Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
+
