@@ -2623,3 +2623,6 @@ My sea sickness comes in waves.
 Commit: Wed Oct 30 06:00:01 CDT 2019
 Why do birds fly south for the winter? Because it's too far to walk.
 
+Commit: Wed Oct 30 07:00:01 CDT 2019
+If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?
+
