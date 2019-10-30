@@ -2606,3 +2606,6 @@ Why are fish easy to weigh? Because they have their own scales.
 Commit: Wed Oct 30 01:00:01 CDT 2019
 Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
 
+Commit: Wed Oct 30 02:00:01 CDT 2019
+What's black and white and read all over? The newspaper.
+
