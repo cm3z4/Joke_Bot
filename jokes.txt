@@ -2663,3 +2663,6 @@ How did Darth Vader know what Luke was getting for Christmas? He felt his presen
 Commit: Thu Oct 31 04:00:01 CDT 2019
 I used to work for a soft drink can crusher. It was soda pressing.
 
+Commit: Thu Oct 31 05:00:01 CDT 2019
+What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+
