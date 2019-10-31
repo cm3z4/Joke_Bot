@@ -2651,3 +2651,6 @@ What do you call a group of disorganized cats? A cat-tastrophe.
 Commit: Thu Oct 31 00:00:01 CDT 2019
 I’m reading a book on the history of glue – can’t put it down.
 
+Commit: Thu Oct 31 01:00:01 CDT 2019
+Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.
+
