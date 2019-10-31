@@ -2654,3 +2654,6 @@ I’m reading a book on the history of glue – can’t put it down.
 Commit: Thu Oct 31 01:00:01 CDT 2019
 Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.
 
+Commit: Thu Oct 31 02:00:01 CDT 2019
+If two vegans are having an argument, is it still considered beef?
+
