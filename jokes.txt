@@ -2701,3 +2701,6 @@ What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, ha
 Commit: Fri Nov  1 13:00:01 CDT 2019
 Why is the ocean always blue? Because the shore never waves back.
 
+Commit: Fri Nov  1 14:00:01 CDT 2019
+How many bones are in the human hand? A handful of them.
+
