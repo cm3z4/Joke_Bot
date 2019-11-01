@@ -2689,3 +2689,6 @@ What do you call an old snowman? Water.
 Commit: Thu Oct 31 21:00:01 CDT 2019
 Why did the melons plan a big wedding? Because they cantaloupe!
 
+Commit: Fri Nov  1 10:00:01 CDT 2019
+Why is it so windy inside an arena? All those fans.
+
