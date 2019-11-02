@@ -2710,3 +2710,8 @@ Why is the new Kindle screen textured to look like paper? So you feel write at h
 Commit: Fri Nov  1 19:00:01 CDT 2019
 "What time is it?" I don't know... it keeps changing.
 
+Commit: Fri Nov  1 20:00:01 CDT 2019
+Never Trust Someone With Graph Paper...
+
+They're always plotting something.
+
