@@ -2707,3 +2707,6 @@ How many bones are in the human hand? A handful of them.
 Commit: Fri Nov  1 15:00:01 CDT 2019
 Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
+Commit: Fri Nov  1 19:00:01 CDT 2019
+"What time is it?" I don't know... it keeps changing.
+
