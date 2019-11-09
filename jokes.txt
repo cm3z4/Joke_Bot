@@ -2758,3 +2758,7 @@ Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow y
 Commit: Sat Nov  9 08:00:01 CST 2019
 Why don’t skeletons ever go trick or treating? Because they have nobody to go with.
 
+Commit: Sat Nov  9 12:00:01 CST 2019
+Why was Santa's little helper feeling depressed? Because he has low elf esteem.
+
+
