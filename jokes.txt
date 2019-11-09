@@ -2774,3 +2774,6 @@ What kind of music do mummy's like? Rap
 Commit: Sat Nov  9 16:00:01 CST 2019
 Remember, the best angle to approach a problem from is the "try" angle.
 
+Commit: Sat Nov  9 17:00:01 CST 2019
+Why was ten scared of seven? Because seven ate nine.
+
