@@ -2777,3 +2777,6 @@ Remember, the best angle to approach a problem from is the "try" angle.
 Commit: Sat Nov  9 17:00:01 CST 2019
 Why was ten scared of seven? Because seven ate nine.
 
+Commit: Sat Nov  9 18:00:01 CST 2019
+What do you call a cow on a trampoline? A milk shake!
+
