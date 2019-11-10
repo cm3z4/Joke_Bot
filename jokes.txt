@@ -2780,3 +2780,6 @@ Why was ten scared of seven? Because seven ate nine.
 Commit: Sat Nov  9 18:00:01 CST 2019
 What do you call a cow on a trampoline? A milk shake!
 
+Commit: Sat Nov  9 19:00:01 CST 2019
+Why did the chicken get a penalty? For fowl play.
+
