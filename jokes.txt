@@ -2783,3 +2783,6 @@ What do you call a cow on a trampoline? A milk shake!
 Commit: Sat Nov  9 19:00:01 CST 2019
 Why did the chicken get a penalty? For fowl play.
 
+Commit: Sat Nov  9 20:00:01 CST 2019
+Why was it called the dark ages? Because of all the knights. 
+
