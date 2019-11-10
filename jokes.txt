@@ -2827,3 +2827,6 @@ Why was ten scared of seven? Because seven ate nine.
 Commit: Sun Nov 10 09:00:01 CST 2019
 What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
 
+Commit: Sun Nov 10 10:00:01 CST 2019
+How do you get two whales in a car? Start in England and drive West.
+
