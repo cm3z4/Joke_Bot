@@ -2839,3 +2839,8 @@ Shout out to my grandma, that's the only way she can hear.
 Commit: Sun Nov 10 13:00:01 CST 2019
 What did one nut say as he chased another nut?  I'm a cashew!
 
+Commit: Sun Nov 10 14:00:01 CST 2019
+What did the hat say to the scarf?
+You can hang around. I'll just go on ahead.
+
+
