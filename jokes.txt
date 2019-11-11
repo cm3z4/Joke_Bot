@@ -2857,3 +2857,6 @@ Two dyslexics walk into a bra.
 Commit: Sun Nov 10 18:00:01 CST 2019
 What did the beaver say to the tree? It's been nice gnawing you.
 
+Commit: Sun Nov 10 19:00:01 CST 2019
+Why do bears have hairy coats? Fur protection.
+
