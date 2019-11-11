@@ -2895,3 +2895,6 @@ Writing with a broken pencil is pointless.
 Commit: Mon Nov 11 06:00:01 CST 2019
 What do you call an elephant that doesn’t matter? An irrelephant.
 
+Commit: Mon Nov 11 07:00:01 CST 2019
+What was a more important invention than the first telephone? The second one.
+
