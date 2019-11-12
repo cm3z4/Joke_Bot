@@ -2901,3 +2901,8 @@ What was a more important invention than the first telephone? The second one.
 Commit: Mon Nov 11 19:00:01 CST 2019
 Did you hear the joke about the wandering nun? She was a roman catholic.
 
+Commit: Mon Nov 11 20:00:01 CST 2019
+What is the difference between ignorance and apathy?
+
+I don't know and I don't care.
+
