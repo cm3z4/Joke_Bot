@@ -2898,3 +2898,6 @@ What do you call an elephant that doesn’t matter? An irrelephant.
 Commit: Mon Nov 11 07:00:01 CST 2019
 What was a more important invention than the first telephone? The second one.
 
+Commit: Mon Nov 11 19:00:01 CST 2019
+Did you hear the joke about the wandering nun? She was a roman catholic.
+
