@@ -1906,3 +1906,6 @@ Conjunctivitis.com – now that’s a site for sore eyes.
 Commit: Tue Nov 12 20:00:01 CST 2019
 Why do mathematicians hate the U.S.? Because it's indivisible.
 
+Commit: Tue Nov 12 21:00:01 CST 2019
+You can't trust a ladder. It will always let you down
+
