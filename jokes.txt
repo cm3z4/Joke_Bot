@@ -1934,3 +1934,6 @@ Which is the fastest growing city in the world? Dublin'
 Commit: Thu Nov 14 01:00:01 CST 2019
 ‘Put the cat out’ … ‘I didn’t realize it was on fire
 
+Commit: Thu Nov 14 02:00:01 CST 2019
+Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.
+
