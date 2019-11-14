@@ -1912,3 +1912,6 @@ You can't trust a ladder. It will always let you down
 Commit: Wed Nov 13 11:00:01 CST 2019
 Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
+Commit: Wed Nov 13 19:00:01 CST 2019
+Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.
+
