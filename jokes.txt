@@ -1915,3 +1915,7 @@ Why is the new Kindle screen textured to look like paper? So you feel write at h
 Commit: Wed Nov 13 19:00:01 CST 2019
 Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.
 
+Commit: Wed Nov 13 20:00:01 CST 2019
+What's the difference between a seal and a sea lion?
+An ion! 
+
