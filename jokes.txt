@@ -1925,3 +1925,6 @@ Dad I’m hungry’ … ‘Hi hungry I’m dad
 Commit: Wed Nov 13 22:00:01 CST 2019
 The rotation of earth really makes my day.
 
+Commit: Wed Nov 13 23:00:01 CST 2019
+Writing with a broken pencil is pointless.
+
