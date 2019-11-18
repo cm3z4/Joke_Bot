@@ -1963,3 +1963,6 @@ Want to hear a chimney joke? Got stacks of em! First one's on the house
 Commit: Thu Nov 14 18:00:09 CST 2019
 What do you call a guy lying on your doorstep? Matt.
 
+Commit: Mon Nov 18 09:00:01 CST 2019
+What do you call an Argentinian with a rubber toe? Roberto
+
