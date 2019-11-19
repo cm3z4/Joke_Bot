@@ -1984,3 +1984,6 @@ What do you call a cow with two legs? Lean beef.
 Commit: Mon Nov 18 20:00:01 CST 2019
 What do you call a group of killer whales playing instruments? An Orca-stra.
 
+Commit: Mon Nov 18 21:00:01 CST 2019
+Breaking news! Energizer Bunny arrested – charged with battery.
+
