@@ -1987,3 +1987,6 @@ What do you call a group of killer whales playing instruments? An Orca-stra.
 Commit: Mon Nov 18 21:00:01 CST 2019
 Breaking news! Energizer Bunny arrested – charged with battery.
 
+Commit: Mon Nov 18 22:00:01 CST 2019
+A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
+
