@@ -1990,3 +1990,7 @@ Breaking news! Energizer Bunny arrested – charged with battery.
 Commit: Mon Nov 18 22:00:01 CST 2019
 A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
 
+Commit: Tue Nov 19 11:00:01 CST 2019
+Commit: Tue Nov 19 12:00:01 CST 2019
+How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
+
