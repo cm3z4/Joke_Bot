@@ -2044,3 +2044,6 @@ Commit: Wed Nov 20 05:00:01 CST 2019
 Q: What’s 50 Cent’s name in Zimbabwe? A: 200 Dollars.
 
 
+Commit: Wed Nov 20 06:00:01 CST 2019
+What's the worst thing about ancient history class? The teachers tend to Babylon.
+
