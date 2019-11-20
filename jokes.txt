@@ -2050,3 +2050,7 @@ What's the worst thing about ancient history class? The teachers tend to Babylon
 Commit: Wed Nov 20 07:00:02 CST 2019
 What do you get when you cross a chicken with a skunk? A fowl smell!
 
+Commit: Wed Nov 20 09:00:01 CST 2019
+Commit: Wed Nov 20 12:00:01 CST 2019
+What do you call two barracuda fish?  A Pairacuda!
+
