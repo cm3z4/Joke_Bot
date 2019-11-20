@@ -2047,3 +2047,6 @@ Q: What’s 50 Cent’s name in Zimbabwe? A: 200 Dollars.
 Commit: Wed Nov 20 06:00:01 CST 2019
 What's the worst thing about ancient history class? The teachers tend to Babylon.
 
+Commit: Wed Nov 20 07:00:02 CST 2019
+What do you get when you cross a chicken with a skunk? A fowl smell!
+
