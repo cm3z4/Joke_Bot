@@ -2040,3 +2040,7 @@ What biscuit does a short person like? Shortbread.
 Commit: Wed Nov 20 04:00:01 CST 2019
 What kind of magic do cows believe in? MOODOO.
 
+Commit: Wed Nov 20 05:00:01 CST 2019
+Q: What’s 50 Cent’s name in Zimbabwe? A: 200 Dollars.
+
+
