@@ -2112,3 +2112,6 @@ Where does Napoleon keep his armies? In his sleevies.
 Commit: Thu Nov 21 09:00:01 CST 2019
 How does a French skeleton say hello? Bone-jour.
 
+Commit: Thu Nov 21 11:00:01 CST 2019
+Why do birds fly south for the winter? Because it's too far to walk.
+
