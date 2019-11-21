@@ -2076,3 +2076,6 @@ Who did the wizard marry? His ghoul-friend
 Commit: Wed Nov 20 20:00:01 CST 2019
 Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
 
+Commit: Wed Nov 20 21:00:01 CST 2019
+Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
+
