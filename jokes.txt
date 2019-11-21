@@ -2085,3 +2085,6 @@ An apple a day keeps the bullies away. If you throw it hard enough.
 Commit: Wed Nov 20 23:00:01 CST 2019
 I decided to sell my Hoover… well it was just collecting dust.
 
+Commit: Thu Nov 21 00:00:01 CST 2019
+Where does Napoleon keep his armies? In his sleevies.
+
