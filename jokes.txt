@@ -2118,3 +2118,7 @@ Why do birds fly south for the winter? Because it's too far to walk.
 Commit: Thu Nov 21 13:00:01 CST 2019
 I’m reading a book on the history of glue – can’t put it down.
 
+Commit: Thu Nov 21 15:00:01 CST 2019
+Commit: Thu Nov 21 17:00:01 CST 2019
+I don't trust stairs. They're always up to something.
+
