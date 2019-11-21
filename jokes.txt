@@ -2088,3 +2088,6 @@ I decided to sell my Hoover… well it was just collecting dust.
 Commit: Thu Nov 21 00:00:01 CST 2019
 Where does Napoleon keep his armies? In his sleevies.
 
+Commit: Thu Nov 21 01:00:01 CST 2019
+Do I enjoy making courthouse puns? Guilty
+
