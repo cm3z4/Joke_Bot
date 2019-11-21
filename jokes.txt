@@ -2109,3 +2109,6 @@ Milk is also the fastest liquid on earth – its pasteurized before you even see
 Commit: Thu Nov 21 07:00:01 CST 2019
 Where does Napoleon keep his armies? In his sleevies.
 
+Commit: Thu Nov 21 09:00:01 CST 2019
+How does a French skeleton say hello? Bone-jour.
+
