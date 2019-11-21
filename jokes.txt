@@ -2067,3 +2067,6 @@ Why do bears have hairy coats? Fur protection.
 Commit: Wed Nov 20 17:00:01 CST 2019
 People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
 
+Commit: Wed Nov 20 18:00:01 CST 2019
+The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
+
