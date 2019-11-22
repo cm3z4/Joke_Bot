@@ -2139,3 +2139,6 @@ I couldn't get a reservation at the library. They were completely booked.
 Commit: Thu Nov 21 22:00:01 CST 2019
 What do you do on a remote island? Try and find the TV island it belongs to.
 
+Commit: Fri Nov 22 16:00:01 CST 2019
+Why was the broom late for the meeting? He overswept.
+
