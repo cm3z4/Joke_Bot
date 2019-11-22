@@ -2130,3 +2130,6 @@ Doctor: Do you want to hear the good news or the bad news?
 Patient: Good news please.
 Doctor: we're naming a disease after you.
 
+Commit: Thu Nov 21 20:00:01 CST 2019
+Chances are if you' ve seen one shopping center, you've seen a mall.
+
