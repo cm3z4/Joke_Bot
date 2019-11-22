@@ -2136,3 +2136,6 @@ Chances are if you' ve seen one shopping center, you've seen a mall.
 Commit: Thu Nov 21 21:00:01 CST 2019
 I couldn't get a reservation at the library. They were completely booked.
 
+Commit: Thu Nov 21 22:00:01 CST 2019
+What do you do on a remote island? Try and find the TV island it belongs to.
+
