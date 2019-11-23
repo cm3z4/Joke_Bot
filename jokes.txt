@@ -2200,3 +2200,7 @@ What did the 0 say to the 8? Nice belt.
 Commit: Sat Nov 23 13:00:01 CST 2019
 The great thing about stationery shops is they're always in the same place...
 
+Commit: Sat Nov 23 14:00:01 CST 2019
+What's the difference between a seal and a sea lion?
+An ion! 
+
