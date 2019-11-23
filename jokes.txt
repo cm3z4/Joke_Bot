@@ -2145,3 +2145,6 @@ Why was the broom late for the meeting? He overswept.
 Commit: Fri Nov 22 19:00:01 CST 2019
 What kind of bagel can fly? A plain bagel.
 
+Commit: Fri Nov 22 20:00:01 CST 2019
+How does a penguin build it’s house? Igloos it together.
+
