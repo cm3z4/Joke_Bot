@@ -2142,3 +2142,6 @@ What do you do on a remote island? Try and find the TV island it belongs to.
 Commit: Fri Nov 22 16:00:01 CST 2019
 Why was the broom late for the meeting? He overswept.
 
+Commit: Fri Nov 22 19:00:01 CST 2019
+What kind of bagel can fly? A plain bagel.
+
