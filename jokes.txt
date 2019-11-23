@@ -2151,3 +2151,6 @@ How does a penguin build it’s house? Igloos it together.
 Commit: Fri Nov 22 21:00:01 CST 2019
 How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
 
+Commit: Fri Nov 22 22:00:01 CST 2019
+How do you find Will Smith in the snow?  Look for fresh prints.
+
