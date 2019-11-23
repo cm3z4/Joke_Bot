@@ -2188,3 +2188,6 @@ Dad I’m hungry’ … ‘Hi hungry I’m dad
 Commit: Sat Nov 23 09:00:01 CST 2019
 What biscuit does a short person like? Shortbread. 
 
+Commit: Sat Nov 23 10:00:02 CST 2019
+Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
+
