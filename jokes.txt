@@ -2154,3 +2154,6 @@ How do you tell the difference between a crocodile and an alligator? You will se
 Commit: Fri Nov 22 22:00:01 CST 2019
 How do you find Will Smith in the snow?  Look for fresh prints.
 
+Commit: Fri Nov 22 23:00:01 CST 2019
+Why are graveyards so noisy? Because of all the coffin.
+
