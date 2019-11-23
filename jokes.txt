@@ -2169,3 +2169,7 @@ Two parrots are sitting on a perch. One turns to the other and asks, "do you sme
 Commit: Sat Nov 23 03:00:01 CST 2019
 What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
 
+Commit: Sat Nov 23 04:00:01 CST 2019
+What do you do when you see a space man?
+Park your car, man.
+
