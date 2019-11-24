@@ -2222,3 +2222,6 @@ Why do birds fly south for the winter? Because it's too far to walk.
 Commit: Sat Nov 23 20:00:01 CST 2019
 I have kleptomania, but when it gets bad, I take something for it.
 
+Commit: Sat Nov 23 21:00:01 CST 2019
+Why did the worker get fired from the orange juice factory? Lack of concentration.
+
