@@ -1897,6 +1897,7 @@ Commit: Wed Sep 25 20:00:01 CDT 2019
 Commit: Wed Sep 25 21:00:01 CDT 2019
 What did the late tomato say to the early tomato? I’ll ketch up
 
+<<<<<<< HEAD
 Commit: Tue Nov 12 15:00:01 CST 2019
 I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
 
@@ -2230,4 +2231,1034 @@ Where do hamburgers go to dance? The meat-ball.
 
 Commit: Sat Nov 23 23:00:01 CST 2019
 What do you call cheese by itself? Provolone.
+=======
+Commit: Wed Sep 25 22:00:01 CDT 2019
+Have you heard of the band 1023MB? They haven't got a gig yet.
+
+Commit: Wed Sep 25 23:00:01 CDT 2019
+Why did the half blind man fall in the well? Because he couldn't see that well!
+
+Commit: Thu Sep 26 00:00:01 CDT 2019
+I heard there was a new store called Moderation. They have everything there
+
+Commit: Thu Sep 26 01:00:01 CDT 2019
+Why are fish so smart? Because they live in schools!
+
+Commit: Thu Sep 26 02:00:01 CDT 2019
+People who don't eat gluten are really going against the grain.
+
+Commit: Thu Sep 26 03:00:01 CDT 2019
+How was the snow globe feeling after the storm? A little shaken.
+
+Commit: Thu Sep 26 04:00:02 CDT 2019
+Why don't sharks eat clowns?  Because they taste funny.
+
+Commit: Thu Sep 26 05:00:01 CDT 2019
+Why did the coffee file a police report? It got mugged.
+
+Commit: Thu Sep 26 06:00:01 CDT 2019
+Where do hamburgers go to dance? The meat-ball.
+
+Commit: Thu Sep 26 07:00:01 CDT 2019
+What’s the advantage of living in Switzerland? Well, the flag is a big plus.
+
+Commit: Thu Sep 26 09:00:01 CDT 2019
+The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.
+
+Commit: Thu Sep 26 10:00:02 CDT 2019
+The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
+
+Commit: Thu Sep 26 14:00:01 CDT 2019
+Who is the coolest Doctor in the hospital? The hip Doctor!
+
+Commit: Thu Sep 26 15:00:01 CDT 2019
+Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.
+
+Commit: Thu Sep 26 17:00:01 CDT 2019
+Did you hear about the new restaurant on the moon? The food is great, but there’s just no atmosphere.
+
+Commit: Thu Sep 26 20:00:01 CDT 2019
+What did the ocean say to the shore? Nothing, it just waved.
+
+Commit: Thu Sep 26 21:00:02 CDT 2019
+Cosmetic surgery used to be such a taboo subject.
+Now you can talk about Botox and nobody raises an eyebrow.
+
+Commit: Fri Sep 27 09:00:01 CDT 2019
+Commit: Fri Sep 27 10:00:01 CDT 2019
+‘Put the cat out’ … ‘I didn’t realize it was on fire
+
+Commit: Fri Sep 27 14:00:01 CDT 2019
+I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
+
+Commit: Fri Sep 27 15:00:01 CDT 2019
+How does a French skeleton say hello? Bone-jour.
+
+Commit: Fri Sep 27 16:00:01 CDT 2019
+What do you get if you put a duck in a cement mixer? Quacks in the pavement.
+
+Commit: Fri Sep 27 17:00:01 CDT 2019
+I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
+
+Commit: Fri Sep 27 18:00:01 CDT 2019
+How do you organize a space party? You planet.
+
+Commit: Fri Sep 27 19:00:01 CDT 2019
+When you have a bladder infection, urine trouble.
+
+Commit: Fri Sep 27 20:00:01 CDT 2019
+I’m on a whiskey diet. I’ve lost three days already.
+
+Commit: Fri Sep 27 21:00:01 CDT 2019
+How come the stadium got hot after the game? Because all of the fans left.
+
+Commit: Sat Sep 28 17:00:01 CDT 2019
+I'll tell you what often gets over looked... garden fences.
+
+Commit: Sat Sep 28 18:00:01 CDT 2019
+Two peanuts were walking down the street. One was a salted
+
+Commit: Sat Sep 28 19:00:01 CDT 2019
+What's large, grey, and doesn't matter?
+An irrelephant.
+
+
+Commit: Sat Sep 28 20:00:01 CDT 2019
+What kind of pants do ghosts wear? Boo jeans.
+
+Commit: Sun Sep 29 17:00:01 CDT 2019
+I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
+
+Commit: Sun Sep 29 18:00:01 CDT 2019
+What's blue and not very heavy?  Light blue.
+
+Commit: Sun Sep 29 19:00:01 CDT 2019
+I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
+
+Commit: Sun Sep 29 20:00:01 CDT 2019
+How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
+
+Commit: Sun Sep 29 21:00:01 CDT 2019
+Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
+
+Commit: Sun Sep 29 22:00:01 CDT 2019
+Geology rocks, but Geography is where it's at!
+
+Commit: Sun Sep 29 23:00:01 CDT 2019
+Without geometry life is pointless.
+
+Commit: Mon Sep 30 00:00:01 CDT 2019
+You will never guess what Elsa did to the balloon. She let it go.
+
+Commit: Mon Sep 30 01:00:01 CDT 2019
+My New Years resolution is to stop leaving things so late.
+
+Commit: Mon Sep 30 02:00:01 CDT 2019
+Hostess: Do you have a preference of where you sit?
+Dad: Down.
+
+Commit: Mon Sep 30 03:00:01 CDT 2019
+Why did the teddy bear say “no” to dessert? Because she was stuffed.
+
+Commit: Mon Sep 30 04:00:01 CDT 2019
+How do locomotives know where they're going? Lots of training
+
+Commit: Mon Sep 30 05:00:01 CDT 2019
+A bartender broke up with her boyfriend, but he kept asking her for another shot.
+
+Commit: Mon Sep 30 06:00:01 CDT 2019
+Why did the melons plan a big wedding? Because they cantaloupe!
+
+Commit: Mon Sep 30 07:00:01 CDT 2019
+What is the best way to carve?
+Whittle by whittle.
+
+Commit: Mon Sep 30 08:00:01 CDT 2019
+How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
+
+Commit: Mon Sep 30 09:00:01 CDT 2019
+Why do valley girls hang out in odd numbered groups? Because they can't even.
+
+Commit: Mon Sep 30 10:00:01 CDT 2019
+What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
+
+Commit: Mon Sep 30 19:00:01 CDT 2019
+Did you hear the one about the guy with the broken hearing aid? Neither did he.
+
+Commit: Mon Sep 30 20:00:01 CDT 2019
+So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. 
+
+Commit: Mon Sep 30 21:00:01 CDT 2019
+I hate perforated lines, they're tearable.
+
+Commit: Tue Oct  1 08:00:01 CDT 2019
+Commit: Tue Oct  1 17:00:01 CDT 2019
+*Reversing the car* "Ah, this takes me back"
+
+Commit: Tue Oct  1 19:00:01 CDT 2019
+"Dad, I'm hungry." Hello, Hungry. I'm Dad.
+
+Commit: Tue Oct  1 20:00:01 CDT 2019
+How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
+
+Commit: Tue Oct  1 21:00:01 CDT 2019
+Did you hear about the bread factory burning down? They say the business is toast.
+
+Commit: Tue Oct  1 22:00:01 CDT 2019
+Have you heard of the band 1023MB? They haven't got a gig yet.
+
+Commit: Tue Oct  1 23:00:01 CDT 2019
+How do you know if there’s an elephant under your bed? Your head hits the ceiling!
+
+Commit: Wed Oct  2 00:00:01 CDT 2019
+So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. 
+
+Commit: Wed Oct  2 01:00:01 CDT 2019
+What did the pirate say on his 80th birthday? Aye Matey!
+
+Commit: Wed Oct  2 02:00:01 CDT 2019
+I thought my wife was joking when she said she'd leave me if I didn't stop signing "I'm A Believer"... Then I saw her face.
+
+Commit: Wed Oct  2 03:00:01 CDT 2019
+What do you call a monkey in a mine field? A babooooom!
+
+
+Commit: Wed Oct  2 04:00:01 CDT 2019
+What was a more important invention than the first telephone? The second one.
+
+Commit: Wed Oct  2 05:00:01 CDT 2019
+"Dad, I'm hungry." Hello, Hungry. I'm Dad.
+
+Commit: Wed Oct  2 06:00:01 CDT 2019
+How do hens stay fit? They always egg-cercise!
+
+Commit: Wed Oct  2 07:00:01 CDT 2019
+How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
+
+Commit: Wed Oct  2 08:00:01 CDT 2019
+I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.
+
+Commit: Wed Oct  2 09:00:01 CDT 2019
+What did one plate say to the other plate? Dinner is on me!
+
+Commit: Wed Oct  2 10:00:01 CDT 2019
+What did the ocean say to the beach? Thanks for all the sediment.
+
+Commit: Wed Oct  2 11:00:01 CDT 2019
+Why are oranges the smartest fruit? Because they are made to concentrate. 
+
+Commit: Wed Oct  2 12:00:01 CDT 2019
+How do you fix a broken pizza? With tomato paste.
+
+Commit: Wed Oct  2 13:00:01 CDT 2019
+What's red and bad for your teeth? A Brick.
+
+Commit: Wed Oct  2 14:00:01 CDT 2019
+You can't run through a camp site. You can only ran, because it's past tents.
+
+Commit: Wed Oct  2 15:00:01 CDT 2019
+I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
+
+Commit: Wed Oct  2 16:00:01 CDT 2019
+My wife told me to rub the herbs on the meat for better flavor. That's sage advice.
+
+Commit: Wed Oct  2 17:00:01 CDT 2019
+Man, I really love my furniture... me and my recliner go way back.
+
+Commit: Wed Oct  2 18:00:01 CDT 2019
+Milk is also the fastest liquid on earth – its pasteurized before you even see it
+
+Commit: Wed Oct  2 19:00:01 CDT 2019
+Did you hear about the Mexican train killer? He had loco motives
+
+Commit: Wed Oct  2 20:00:01 CDT 2019
+What do you call a dad that has fallen through the ice? A Popsicle.
+
+Commit: Wed Oct  2 21:00:01 CDT 2019
+Did you hear the news? FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.
+
+Commit: Wed Oct  2 22:00:02 CDT 2019
+Where was the Declaration of Independence signed?
+
+At the bottom! 
+
+Commit: Wed Oct  2 23:00:01 CDT 2019
+Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
+
+Commit: Thu Oct  3 00:00:01 CDT 2019
+What is the difference between ignorance and apathy?
+
+I don't know and I don't care.
+
+Commit: Thu Oct  3 01:00:01 CDT 2019
+What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.
+
+Commit: Thu Oct  3 02:00:01 CDT 2019
+I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.
+I have no words to describe how angry I am.
+
+Commit: Thu Oct  3 03:00:01 CDT 2019
+I don't trust stairs. They're always up to something.
+
+Commit: Thu Oct  3 04:00:01 CDT 2019
+Where does Napoleon keep his armies? In his sleevies.
+
+Commit: Thu Oct  3 05:00:01 CDT 2019
+It's difficult to say what my wife does, she sells sea shells by the sea shore.
+
+Commit: Thu Oct  3 06:00:02 CDT 2019
+My wife told me to rub the herbs on the meat for better flavor. That's sage advice.
+
+Commit: Thu Oct  3 07:00:01 CDT 2019
+Why do ducks make great detectives? They always quack the case.
+
+Commit: Thu Oct  3 16:00:01 CDT 2019
+Which is the fastest growing city in the world? Dublin'
+
+Commit: Thu Oct  3 17:00:01 CDT 2019
+Commit: Thu Oct  3 18:00:01 CDT 2019
+Whiteboards ... are remarkable.
+
+Commit: Thu Oct  3 21:00:01 CDT 2019
+The great thing about stationery shops is they're always in the same place...
+
+Commit: Thu Oct  3 22:00:01 CDT 2019
+Toasters were the first form of pop-up notifications.
+
+Commit: Thu Oct  3 23:00:01 CDT 2019
+What do you get when you cross a bee and a sheep? A bah-humbug.
+
+
+Commit: Fri Oct  4 00:00:02 CDT 2019
+What’s brown and sounds like a bell? Dung!
+
+Commit: Fri Oct  4 01:00:01 CDT 2019
+Why was the big cat disqualified from the race? Because it was a cheetah.
+
+Commit: Fri Oct  4 02:00:01 CDT 2019
+Where does batman go to the bathroom? The batroom.
+
+Commit: Fri Oct  4 03:00:01 CDT 2019
+What did one wall say to the other wall? I'll meet you at the corner!
+
+Commit: Fri Oct  4 04:00:01 CDT 2019
+Did you hear about the runner who was criticized? He just took it in stride
+
+Commit: Fri Oct  4 05:00:01 CDT 2019
+Why did the worker get fired from the orange juice factory? Lack of concentration.
+
+Commit: Fri Oct  4 06:00:01 CDT 2019
+The other day I was listening to a song about superglue, it’s been stuck in my head ever since.
+
+Commit: Fri Oct  4 07:00:01 CDT 2019
+Why did the chicken get a penalty? For fowl play.
+
+Commit: Fri Oct  4 09:00:01 CDT 2019
+What do you call an alligator in a vest? An in-vest-igator!
+
+Commit: Fri Oct  4 11:00:01 CDT 2019
+Whiteboards ... are remarkable.
+
+Commit: Fri Oct  4 16:00:01 CDT 2019
+A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. 
+
+Commit: Fri Oct  4 17:00:01 CDT 2019
+How does the moon cut his hair? Eclipse it.
+
+Commit: Fri Oct  4 18:00:01 CDT 2019
+I asked a frenchman if he played video games. He said "Wii"
+
+Commit: Fri Oct  4 19:00:01 CDT 2019
+Thanks for explaining the word "many" to me. It means a lot.
+
+Commit: Fri Oct  4 20:00:01 CDT 2019
+I heard there was a new store called Moderation. They have everything there
+
+Commit: Fri Oct  4 21:00:01 CDT 2019
+My first time using an elevator was an uplifting experience. The second time let me down.
+
+Commit: Fri Oct  4 22:00:01 CDT 2019
+What time did the man go to the dentist? Tooth hurt-y.
+
+Commit: Fri Oct  4 23:00:01 CDT 2019
+Writing with a broken pencil is pointless.
+
+Commit: Sat Oct  5 00:00:01 CDT 2019
+What did the ocean say to the beach? Thanks for all the sediment.
+
+Commit: Sat Oct  5 01:00:01 CDT 2019
+A man walked in to a bar with some asphalt on his arm. He said “Two beers please, one for me and one for the road.”
+
+Commit: Sat Oct  5 02:00:01 CDT 2019
+Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
+
+Commit: Sat Oct  5 03:00:01 CDT 2019
+Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
+
+Commit: Sat Oct  5 04:00:01 CDT 2019
+Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.
+
+Commit: Sat Oct  5 05:00:01 CDT 2019
+Why don't sharks eat clowns?  Because they taste funny.
+
+Commit: Sat Oct  5 06:00:01 CDT 2019
+Why was the big cat disqualified from the race? Because it was a cheetah.
+
+Commit: Sat Oct  5 07:00:01 CDT 2019
+I used to be addicted to soap, but I'm clean now.
+
+Commit: Sat Oct  5 08:00:01 CDT 2019
+Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?
+
+Doctor: No, humans can never hear that high of a frequency no matter what age they are.
+
+Me: Trick question... dogs can't whistle.
+
+Commit: Sat Oct  5 09:00:01 CDT 2019
+Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.
+
+Commit: Sat Oct  5 10:00:01 CDT 2019
+What do birds give out on Halloween? Tweets.
+
+Commit: Sat Oct  5 11:00:01 CDT 2019
+Why did the chicken get a penalty? For fowl play.
+
+Commit: Sat Oct  5 12:00:01 CDT 2019
+I made a belt out of watches once... It was a waist of time.
+
+Commit: Sat Oct  5 13:00:01 CDT 2019
+This furniture store keeps emailing me, all I wanted was one night stand!
+
+Commit: Sat Oct  5 14:00:01 CDT 2019
+What do you call someone with no nose? Nobody knows.
+
+Commit: Sat Oct  5 15:00:01 CDT 2019
+What’s Forest Gump’s Facebook password? 1forest1
+
+Commit: Mon Oct  7 12:00:01 CDT 2019
+What do you call a fly without wings? A walk.
+
+Commit: Mon Oct  7 13:00:01 CDT 2019
+Why didn't the number 4 get into the nightclub? Because he is 2 square.
+
+Commit: Mon Oct  7 15:00:01 CDT 2019
+Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
+
+Commit: Mon Oct  7 16:00:01 CDT 2019
+What creature is smarter than a talking parrot? A spelling bee.
+
+Commit: Mon Oct  7 17:00:01 CDT 2019
+How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
+
+Commit: Mon Oct  7 18:00:01 CDT 2019
+What do you get when you cross a rabbit with a water hose? Hare spray.
+
+Commit: Mon Oct  7 19:00:02 CDT 2019
+What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+
+Commit: Mon Oct  7 20:00:01 CDT 2019
+Why don't sharks eat clowns?  Because they taste funny.
+
+Commit: Tue Oct  8 14:00:01 CDT 2019
+I was wondering why the frisbee was getting bigger, then it hit me.
+
+Commit: Tue Oct  8 15:00:01 CDT 2019
+"Hey, dad, did you get a haircut?" "No, I got them all cut."
+
+Commit: Tue Oct  8 16:00:01 CDT 2019
+Ever wondered why bees hum? It's because they don't know the words.
+
+Commit: Thu Oct 10 12:00:01 CDT 2019
+Commit: Thu Oct 10 14:00:01 CDT 2019
+Commit: Fri Oct 11 16:00:01 CDT 2019
+There's not really any training for garbagemen. They just pick things up as they go.
+
+Commit: Fri Oct 11 17:00:01 CDT 2019
+What do you call corn that joins the army? Kernel.
+
+Commit: Fri Oct 11 18:00:01 CDT 2019
+What did one snowman say to the other snow man? Do you smell carrot?
+
+Commit: Fri Oct 11 19:00:01 CDT 2019
+What do you call a girl between two posts? Annette.
+
+Commit: Mon Oct 14 20:00:01 CDT 2019
+People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
+
+Commit: Mon Oct 14 21:00:01 CDT 2019
+Egyptians claimed to invent the guitar, but they were such lyres.﻿
+
+Commit: Wed Oct 16 06:00:01 CDT 2019
+What is this movie about? It is about 2 hours long.
+
+Commit: Wed Oct 16 18:00:01 CDT 2019
+Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
+
+Commit: Thu Oct 17 09:00:01 CDT 2019
+Commit: Thu Oct 17 11:00:02 CDT 2019
+Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
+
+Commit: Thu Oct 17 12:00:01 CDT 2019
+Did you hear about the Mexican train killer? He had loco motives
+
+Commit: Thu Oct 17 13:00:01 CDT 2019
+Why did the coffee file a police report? It got mugged.
+
+Commit: Thu Oct 17 14:00:01 CDT 2019
+Commit: Fri Oct 18 10:00:01 CDT 2019
+Why did the half blind man fall in the well? Because he couldn't see that well!
+
+Commit: Fri Oct 18 11:00:01 CDT 2019
+Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
+
+Commit: Sun Oct 20 21:00:01 CDT 2019
+Why do bees have sticky hair? Because they use honey combs!
+
+Commit: Sun Oct 20 22:00:01 CDT 2019
+What do you call a pile of cats?  A Meowtain.
+
+Commit: Mon Oct 21 08:00:01 CDT 2019
+Commit: Mon Oct 21 19:00:01 CDT 2019
+Q: What did the spaghetti say to the other spaghetti?
+A: Pasta la vista, baby!
+
+Commit: Mon Oct 21 20:00:01 CDT 2019
+What was the pumpkin’s favorite sport?
+
+Squash.
+
+Commit: Mon Oct 21 21:00:01 CDT 2019
+What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
+
+Commit: Mon Oct 21 22:00:01 CDT 2019
+"Dad, I'm hungry." Hello, Hungry. I'm Dad.
+
+Commit: Mon Oct 21 23:00:01 CDT 2019
+What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
+
+Commit: Tue Oct 22 00:00:01 CDT 2019
+Why didn’t the skeleton cross the road? Because he had no guts.
+
+Commit: Tue Oct 22 01:00:01 CDT 2019
+Why was the broom late for the meeting? He overswept.
+
+Commit: Tue Oct 22 02:00:01 CDT 2019
+Why did the half blind man fall in the well? Because he couldn't see that well!
+
+Commit: Tue Oct 22 03:00:01 CDT 2019
+What is the tallest building in the world? The library – it’s got the most stories!
+
+Commit: Tue Oct 22 04:00:01 CDT 2019
+What type of music do balloons hate? Pop music!
+
+Commit: Tue Oct 22 05:00:01 CDT 2019
+This furniture store keeps emailing me, all I wanted was one night stand!
+
+Commit: Tue Oct 22 06:00:01 CDT 2019
+Where do hamburgers go to dance? The meat-ball.
+
+Commit: Tue Oct 22 07:00:01 CDT 2019
+Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. 
+He also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. 
+This made him a super calloused fragile mystic hexed by halitosis.
+
+Commit: Wed Oct 23 10:00:01 CDT 2019
+I’m on a whiskey diet. I’ve lost three days already.
+
+Commit: Wed Oct 23 12:00:01 CDT 2019
+Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
+
+Commit: Wed Oct 23 13:00:01 CDT 2019
+Why did the house go to the doctor? It was having window panes.
+
+Commit: Wed Oct 23 14:00:02 CDT 2019
+Why did the coffee file a police report? It got mugged.
+
+Commit: Wed Oct 23 15:00:01 CDT 2019
+Velcro… What a rip-off.
+
+Commit: Wed Oct 23 17:00:01 CDT 2019
+Commit: Wed Oct 23 19:00:02 CDT 2019
+I couldn't get a reservation at the library. They were completely booked.
+
+Commit: Wed Oct 23 20:00:01 CDT 2019
+What lies at the bottom of the ocean and twitches? A nervous wreck.
+
+Commit: Thu Oct 24 09:00:01 CDT 2019
+Why did the octopus beat the shark in a fight? Because it was well armed.
+
+Commit: Thu Oct 24 10:00:02 CDT 2019
+What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+
+Commit: Thu Oct 24 17:00:01 CDT 2019
+Have you heard about the film "Constipation", you probably haven't because it's not out yet.
+
+Commit: Thu Oct 24 18:00:01 CDT 2019
+Why do crabs never give to charity? Because they’re shellfish.
+
+Commit: Thu Oct 24 19:00:01 CDT 2019
+I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
+
+Commit: Thu Oct 24 20:00:01 CDT 2019
+Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
+
+Commit: Thu Oct 24 21:00:01 CDT 2019
+Why is the ocean always blue? Because the shore never waves back.
+
+Commit: Thu Oct 24 22:00:01 CDT 2019
+What do you call a droid that takes the long way around? R2 detour.
+
+Commit: Thu Oct 24 23:00:01 CDT 2019
+Why did the cookie cry? It was feeling crumby.
+
+Commit: Fri Oct 25 00:00:01 CDT 2019
+Don't tell secrets in corn fields. Too many ears around.
+
+Commit: Fri Oct 25 01:00:01 CDT 2019
+I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
+
+Commit: Fri Oct 25 02:00:01 CDT 2019
+Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
+
+Commit: Fri Oct 25 03:00:01 CDT 2019
+What do you call corn that joins the army? Kernel.
+
+Commit: Fri Oct 25 04:00:01 CDT 2019
+What do vegetarian zombies eat? Grrrrrainnnnnssss.
+
+Commit: Fri Oct 25 05:00:01 CDT 2019
+What's brown and sticky? A stick.
+
+Commit: Fri Oct 25 06:00:01 CDT 2019
+I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
+
+Commit: Fri Oct 25 07:00:01 CDT 2019
+How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
+
+Commit: Fri Oct 25 09:00:01 CDT 2019
+What does a clock do when it's hungry? It goes back four seconds!
+
+Commit: Fri Oct 25 10:00:01 CDT 2019
+Why didn’t the skeleton cross the road? Because he had no guts.
+
+Commit: Fri Oct 25 11:00:01 CDT 2019
+What do you call a group of killer whales playing instruments? An Orca-stra.
+
+Commit: Sat Oct 26 12:00:01 CDT 2019
+I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free.
+
+Commit: Sat Oct 26 14:00:01 CDT 2019
+What do you call a boomerang that won't come back? A stick.
+
+Commit: Sat Oct 26 15:00:01 CDT 2019
+This morning I was wondering where the sun was, but then it dawned on me.
+
+Commit: Sat Oct 26 16:00:01 CDT 2019
+Commit: Sun Oct 27 15:00:01 CDT 2019
+What did the grape do when he got stepped on? He let out a little wine.
+
+Commit: Sun Oct 27 16:00:02 CDT 2019
+A Skeleton walked into a bar he said I need a beer and a mop
+
+Commit: Sun Oct 27 17:00:01 CDT 2019
+You can't run through a camp site. You can only ran, because it's past tents.
+
+Commit: Sun Oct 27 18:00:01 CDT 2019
+Why was it called the dark ages? Because of all the knights. 
+
+Commit: Sun Oct 27 19:00:01 CDT 2019
+Did you hear that David lost his ID in prague? Now we just have to call him Dav.
+
+Commit: Sun Oct 27 20:00:01 CDT 2019
+Why did the tree go to the dentist? It needed a root canal.
+
+Commit: Sun Oct 27 21:00:01 CDT 2019
+Someone broke into my house last night and stole my limbo trophy. How low can you go?
+
+Commit: Sun Oct 27 22:00:01 CDT 2019
+What type of music do balloons hate? Pop music!
+
+Commit: Sun Oct 27 23:00:01 CDT 2019
+Why do pirates not know the alphabet? They always get stuck at "C".
+
+Commit: Mon Oct 28 00:00:01 CDT 2019
+Hostess: Do you have a preference of where you sit?
+Dad: Down.
+
+Commit: Mon Oct 28 01:00:01 CDT 2019
+What do you call a group of killer whales playing instruments? An Orca-stra.
+
+Commit: Mon Oct 28 02:00:01 CDT 2019
+Why was it called the dark ages? Because of all the knights. 
+
+Commit: Mon Oct 28 03:00:01 CDT 2019
+Why is Peter Pan always flying? Because he Neverlands.
+
+Commit: Mon Oct 28 04:00:01 CDT 2019
+I used to work in a shoe recycling shop. It was sole destroying.
+
+Commit: Mon Oct 28 05:00:01 CDT 2019
+What is a tornado's favorite game to play? Twister!
+
+Commit: Mon Oct 28 06:00:01 CDT 2019
+How come the stadium got hot after the game? Because all of the fans left.
+
+Commit: Mon Oct 28 07:00:01 CDT 2019
+Shout out to my grandma, that's the only way she can hear.
+
+Commit: Mon Oct 28 12:00:01 CDT 2019
+What do you do on a remote island? Try and find the TV island it belongs to.
+
+Commit: Mon Oct 28 13:00:01 CDT 2019
+‘Put the cat out’ … ‘I didn’t realize it was on fire
+
+Commit: Mon Oct 28 18:00:01 CDT 2019
+What do you call a bear with no teeth? A gummy bear!
+
+Commit: Tue Oct 29 09:00:01 CDT 2019
+Sore throats are a pain in the neck!
+
+Commit: Tue Oct 29 10:00:01 CDT 2019
+Commit: Tue Oct 29 19:00:01 CDT 2019
+Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.
+
+Commit: Tue Oct 29 20:00:01 CDT 2019
+Why did the opera singer go sailing? They wanted to hit the high Cs.
+
+Commit: Tue Oct 29 21:00:01 CDT 2019
+It's difficult to say what my wife does, she sells sea shells by the sea shore.
+
+Commit: Tue Oct 29 22:00:01 CDT 2019
+Q: What did the spaghetti say to the other spaghetti?
+A: Pasta la vista, baby!
+
+Commit: Tue Oct 29 23:00:01 CDT 2019
+Shout out to my grandma, that's the only way she can hear.
+
+Commit: Wed Oct 30 00:00:01 CDT 2019
+Why are fish easy to weigh? Because they have their own scales.
+
+Commit: Wed Oct 30 01:00:01 CDT 2019
+Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
+
+Commit: Wed Oct 30 02:00:01 CDT 2019
+What's black and white and read all over? The newspaper.
+
+Commit: Wed Oct 30 03:00:01 CDT 2019
+Doctor: Do you want to hear the good news or the bad news?
+Patient: Good news please.
+Doctor: we're naming a disease after you.
+
+Commit: Wed Oct 30 04:00:01 CDT 2019
+How many tickles does it take to tickle an octopus? Ten-tickles!
+
+Commit: Wed Oct 30 05:00:01 CDT 2019
+My sea sickness comes in waves.
+
+Commit: Wed Oct 30 06:00:01 CDT 2019
+Why do birds fly south for the winter? Because it's too far to walk.
+
+Commit: Wed Oct 30 07:00:01 CDT 2019
+If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?
+
+Commit: Wed Oct 30 17:00:01 CDT 2019
+I used to be addicted to soap, but I'm clean now.
+
+Commit: Wed Oct 30 18:00:01 CDT 2019
+Why was Santa's little helper feeling depressed? Because he has low elf esteem.
+
+
+Commit: Wed Oct 30 19:00:01 CDT 2019
+Whiteboards ... are remarkable.
+
+Commit: Wed Oct 30 20:00:01 CDT 2019
+An apple a day keeps the bullies away. If you throw it hard enough.
+
+Commit: Wed Oct 30 21:00:01 CDT 2019
+How do you fix a broken pizza? With tomato paste.
+
+Commit: Wed Oct 30 22:00:01 CDT 2019
+What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
+
+Commit: Wed Oct 30 23:00:01 CDT 2019
+What do you call a group of disorganized cats? A cat-tastrophe.
+
+Commit: Thu Oct 31 00:00:01 CDT 2019
+I’m reading a book on the history of glue – can’t put it down.
+
+Commit: Thu Oct 31 01:00:01 CDT 2019
+Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.
+
+Commit: Thu Oct 31 02:00:01 CDT 2019
+If two vegans are having an argument, is it still considered beef?
+
+Commit: Thu Oct 31 03:00:01 CDT 2019
+How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
+
+Commit: Thu Oct 31 04:00:01 CDT 2019
+I used to work for a soft drink can crusher. It was soda pressing.
+
+Commit: Thu Oct 31 05:00:01 CDT 2019
+What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+
+Commit: Thu Oct 31 06:00:01 CDT 2019
+A panda walks into a bar and says to the bartender “I’ll have a Scotch and . . . . . . . . . . . . . . Coke thank you”. 
+
+“Sure thing” the bartender replies and asks “but what’s with the big pause?” 
+
+The panda holds up his hands and says “I was born with them”
+
+Commit: Thu Oct 31 07:00:01 CDT 2019
+What do you call a dad that has fallen through the ice? A Popsicle.
+
+Commit: Thu Oct 31 14:00:01 CDT 2019
+What was a more important invention than the first telephone? The second one.
+
+Commit: Thu Oct 31 15:00:01 CDT 2019
+What is the best way to carve?
+Whittle by whittle.
+
+Commit: Thu Oct 31 20:00:01 CDT 2019
+What do you call an old snowman? Water.
+
+Commit: Thu Oct 31 21:00:01 CDT 2019
+Why did the melons plan a big wedding? Because they cantaloupe!
+
+Commit: Fri Nov  1 10:00:01 CDT 2019
+Why is it so windy inside an arena? All those fans.
+
+Commit: Fri Nov  1 11:00:01 CDT 2019
+I was so proud when I finished the puzzle in six months, when on the side it said three to four years.
+
+Commit: Fri Nov  1 12:00:01 CDT 2019
+What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+
+Commit: Fri Nov  1 13:00:01 CDT 2019
+Why is the ocean always blue? Because the shore never waves back.
+
+Commit: Fri Nov  1 14:00:01 CDT 2019
+How many bones are in the human hand? A handful of them.
+
+Commit: Fri Nov  1 15:00:01 CDT 2019
+Why is the new Kindle screen textured to look like paper? So you feel write at home.
+
+Commit: Fri Nov  1 19:00:01 CDT 2019
+"What time is it?" I don't know... it keeps changing.
+
+Commit: Fri Nov  1 20:00:01 CDT 2019
+Never Trust Someone With Graph Paper...
+
+They're always plotting something.
+
+Commit: Mon Nov  4 14:00:02 CST 2019
+Why is there always a gate around cemeteries? Because people are always dying to get in.
+
+Commit: Tue Nov  5 12:00:01 CST 2019
+Commit: Wed Nov  6 14:00:01 CST 2019
+What's the worst part about being a cross-eyed teacher?
+
+They can't control their pupils.
+
+Commit: Wed Nov  6 15:00:01 CST 2019
+What do you call a pig with three eyes? Piiig
+
+Commit: Wed Nov  6 20:00:01 CST 2019
+Did you know that ghosts call their true love their ghoul-friend?
+
+Commit: Thu Nov  7 08:00:01 CST 2019
+I used to be a banker, but I lost interest.
+
+Commit: Thu Nov  7 09:00:01 CST 2019
+Why do scuba divers fall backwards into the water? Because if they fell forwards they’d still be in the boat.
+
+Commit: Thu Nov  7 10:00:01 CST 2019
+Commit: Thu Nov  7 11:00:01 CST 2019
+Commit: Thu Nov  7 12:00:01 CST 2019
+Commit: Thu Nov  7 13:00:01 CST 2019
+Commit: Thu Nov  7 14:00:01 CST 2019
+Commit: Thu Nov  7 15:00:01 CST 2019
+Commit: Thu Nov  7 16:00:01 CST 2019
+Commit: Fri Nov  8 08:00:01 CST 2019
+What was a more important invention than the first telephone? The second one.
+
+Commit: Fri Nov  8 09:00:01 CST 2019
+What do you call a group of disorganized cats? A cat-tastrophe.
+
+Commit: Fri Nov  8 10:00:01 CST 2019
+What is the leading cause of dry skin? Towels
+
+Commit: Fri Nov  8 18:00:01 CST 2019
+Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.
+
+Commit: Sat Nov  9 08:00:01 CST 2019
+Why don’t skeletons ever go trick or treating? Because they have nobody to go with.
+
+Commit: Sat Nov  9 12:00:01 CST 2019
+Why was Santa's little helper feeling depressed? Because he has low elf esteem.
+
+
+Commit: Sat Nov  9 13:00:01 CST 2019
+“Doctor, I’ve broken my arm in several places” Doctor “Well don’t go to those places.”
+
+Commit: Sat Nov  9 14:00:01 CST 2019
+My first time using an elevator was an uplifting experience. The second time let me down.
+
+Commit: Sat Nov  9 15:00:01 CST 2019
+What kind of music do mummy's like? Rap
+
+Commit: Sat Nov  9 16:00:01 CST 2019
+Remember, the best angle to approach a problem from is the "try" angle.
+
+Commit: Sat Nov  9 17:00:01 CST 2019
+Why was ten scared of seven? Because seven ate nine.
+
+Commit: Sat Nov  9 18:00:01 CST 2019
+What do you call a cow on a trampoline? A milk shake!
+
+Commit: Sat Nov  9 19:00:01 CST 2019
+Why did the chicken get a penalty? For fowl play.
+
+Commit: Sat Nov  9 20:00:01 CST 2019
+Why was it called the dark ages? Because of all the knights. 
+
+Commit: Sat Nov  9 21:00:01 CST 2019
+Camping is intense.
+
+Commit: Sat Nov  9 22:00:01 CST 2019
+What was a more important invention than the first telephone? The second one.
+
+Commit: Sat Nov  9 23:00:01 CST 2019
+I’m reading a book on the history of glue – can’t put it down.
+
+Commit: Sun Nov 10 00:00:01 CST 2019
+What did the grape do when he got stepped on? He let out a little wine.
+
+Commit: Sun Nov 10 01:00:01 CST 2019
+Why do ducks make great detectives? They always quack the case.
+
+Commit: Sun Nov 10 02:00:01 CST 2019
+Why don’t seagulls fly over the bay? Because then they’d be bay-gulls!
+
+Commit: Sun Nov 10 03:00:01 CST 2019
+Slept like a log last night … woke up in the fireplace.
+
+Commit: Sun Nov 10 04:00:01 CST 2019
+Atheism is a non-prophet organisation.
+
+Commit: Sun Nov 10 05:00:01 CST 2019
+Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. 
+He also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath. 
+This made him a super calloused fragile mystic hexed by halitosis.
+
+Commit: Sun Nov 10 06:00:01 CST 2019
+What do you call a dictionary on drugs? High definition.
+
+Commit: Sun Nov 10 07:00:01 CST 2019
+Why are oranges the smartest fruit? Because they are made to concentrate. 
+
+Commit: Sun Nov 10 08:00:01 CST 2019
+Why was ten scared of seven? Because seven ate nine.
+
+Commit: Sun Nov 10 09:00:01 CST 2019
+What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
+
+Commit: Sun Nov 10 10:00:01 CST 2019
+How do you get two whales in a car? Start in England and drive West.
+
+Commit: Sun Nov 10 11:00:01 CST 2019
+I fear for the calendar, it’s days are numbered.
+
+Commit: Sun Nov 10 12:00:01 CST 2019
+Shout out to my grandma, that's the only way she can hear.
+
+Commit: Sun Nov 10 13:00:01 CST 2019
+What did one nut say as he chased another nut?  I'm a cashew!
+
+Commit: Sun Nov 10 14:00:01 CST 2019
+What did the hat say to the scarf?
+You can hang around. I'll just go on ahead.
+
+
+Commit: Sun Nov 10 15:00:01 CST 2019
+What do you call a group of killer whales playing instruments? An Orca-stra.
+
+Commit: Sun Nov 10 16:00:01 CST 2019
+I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.
+I have no words to describe how angry I am.
+
+Commit: Sun Nov 10 17:00:01 CST 2019
+Two dyslexics walk into a bra.
+
+Commit: Sun Nov 10 18:00:01 CST 2019
+What did the beaver say to the tree? It's been nice gnawing you.
+
+Commit: Sun Nov 10 19:00:01 CST 2019
+Why do bears have hairy coats? Fur protection.
+
+Commit: Sun Nov 10 20:00:01 CST 2019
+Bad at golf? Join the club.
+
+Commit: Sun Nov 10 21:00:01 CST 2019
+Did you hear about the kidnapping at school? It's ok, he woke up.
+
+Commit: Sun Nov 10 22:00:01 CST 2019
+I used to be a banker, but I lost interest.
+
+Commit: Sun Nov 10 23:00:01 CST 2019
+Is there a hole in your shoe? No… Then how’d you get your foot in it?
+
+Commit: Mon Nov 11 00:00:01 CST 2019
+Bad at golf? Join the club.
+
+Commit: Mon Nov 11 01:00:01 CST 2019
+Q: What did the spaghetti say to the other spaghetti?
+A: Pasta la vista, baby!
+
+Commit: Mon Nov 11 02:00:02 CST 2019
+I cut my finger chopping cheese, but I think that I may have grater problems.
+
+Commit: Mon Nov 11 03:00:01 CST 2019
+What is the least spoken language in the world?
+Sign Language
+
+Commit: Mon Nov 11 04:00:01 CST 2019
+A magician was driving down the street and then he turned into a driveway.
+
+Commit: Mon Nov 11 05:00:01 CST 2019
+Writing with a broken pencil is pointless.
+
+Commit: Mon Nov 11 06:00:01 CST 2019
+What do you call an elephant that doesn’t matter? An irrelephant.
+
+Commit: Mon Nov 11 07:00:01 CST 2019
+What was a more important invention than the first telephone? The second one.
+
+Commit: Mon Nov 11 19:00:01 CST 2019
+Did you hear the joke about the wandering nun? She was a roman catholic.
+
+Commit: Mon Nov 11 20:00:01 CST 2019
+What is the difference between ignorance and apathy?
+
+I don't know and I don't care.
+
+Commit: Mon Nov 11 21:00:01 CST 2019
+How many bones are in the human hand? A handful of them.
+
+Commit: Mon Nov 11 22:00:01 CST 2019
+I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
+
+Commit: Tue Nov 12 10:00:01 CST 2019
+Commit: Tue Nov 12 11:00:01 CST 2019
+Commit: Tue Nov 12 12:00:01 CST 2019
+"Dad, I'm hungry." Hello, Hungry. I'm Dad.
+
+Commit: Tue Nov 12 13:00:01 CST 2019
+what do you call a dog that can do magic tricks? a labracadabrador
+
+Commit: Tue Nov 12 14:00:01 CST 2019
+I used to hate facial hair, but then it grew on me.
+>>>>>>> 3929c35ee66d602cf362837e9afef12a37e8f3aa
+
+Commit: Sun Nov 24 10:00:01 CST 2019
+I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
 
