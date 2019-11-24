@@ -2216,3 +2216,6 @@ Where do hamburgers go to dance? The meat-ball.
 Commit: Sat Nov 23 18:00:01 CST 2019
 What do you call a pig that knows karate? A pork chop!
 
+Commit: Sat Nov 23 19:00:01 CST 2019
+Why do birds fly south for the winter? Because it's too far to walk.
+
