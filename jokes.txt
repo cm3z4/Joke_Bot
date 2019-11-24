@@ -2213,3 +2213,6 @@ You know what they say about cliffhangers...
 Commit: Sat Nov 23 17:00:01 CST 2019
 Where do hamburgers go to dance? The meat-ball.
 
+Commit: Sat Nov 23 18:00:01 CST 2019
+What do you call a pig that knows karate? A pork chop!
+
