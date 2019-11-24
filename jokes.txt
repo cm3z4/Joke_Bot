@@ -2228,3 +2228,6 @@ Why did the worker get fired from the orange juice factory? Lack of concentratio
 Commit: Sat Nov 23 22:00:01 CST 2019
 Where do hamburgers go to dance? The meat-ball.
 
+Commit: Sat Nov 23 23:00:01 CST 2019
+What do you call cheese by itself? Provolone.
+
