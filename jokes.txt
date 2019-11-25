@@ -3280,3 +3280,6 @@ How many tickles does it take to tickle an octopus? Ten-tickles!
 Commit: Sun Nov 24 19:00:01 CST 2019
 What biscuit does a short person like? Shortbread. 
 
+Commit: Sun Nov 24 20:00:01 CST 2019
+How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
+
