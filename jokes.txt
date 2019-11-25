@@ -3283,3 +3283,6 @@ What biscuit does a short person like? Shortbread.
 Commit: Sun Nov 24 20:00:01 CST 2019
 How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
 
+Commit: Mon Nov 25 12:00:01 CST 2019
+Atheism is a non-prophet organisation.
+
