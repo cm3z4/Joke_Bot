@@ -3277,3 +3277,6 @@ What type of music do balloons hate? Pop music!
 Commit: Sun Nov 24 17:00:01 CST 2019
 How many tickles does it take to tickle an octopus? Ten-tickles!
 
+Commit: Sun Nov 24 19:00:01 CST 2019
+What biscuit does a short person like? Shortbread. 
+
