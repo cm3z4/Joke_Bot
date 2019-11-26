@@ -3314,3 +3314,6 @@ What kind of music do planets listen to? Nep-tunes.
 Commit: Mon Nov 25 22:00:01 CST 2019
 Is the pool safe for diving? It deep ends.
 
+Commit: Mon Nov 25 23:00:01 CST 2019
+Why are graveyards so noisy? Because of all the coffin.
+
