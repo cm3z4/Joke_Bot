@@ -3347,3 +3347,6 @@ What creature is smarter than a talking parrot? A spelling bee.
 Commit: Tue Nov 26 10:00:01 CST 2019
 Why are oranges the smartest fruit? Because they are made to concentrate. 
 
+Commit: Tue Nov 26 11:00:01 CST 2019
+Why is the new Kindle screen textured to look like paper? So you feel write at home.
+
