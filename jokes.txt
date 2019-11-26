@@ -3326,3 +3326,6 @@ What do you call a droid that takes the long way around? R2 detour.
 Commit: Tue Nov 26 02:00:01 CST 2019
 Why is the ocean always blue? Because the shore never waves back.
 
+Commit: Tue Nov 26 03:00:01 CST 2019
+Whoever invented the knock-knock joke should get a no bell prize.
+
