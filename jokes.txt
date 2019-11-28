@@ -3414,3 +3414,7 @@ Squash.
 Commit: Thu Nov 28 04:00:01 CST 2019
 Why are skeletons so calm? Because nothing gets under their skin.
 
+Commit: Thu Nov 28 05:00:01 CST 2019
+What is the least spoken language in the world?
+Sign Language
+
