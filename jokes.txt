@@ -3421,3 +3421,6 @@ Sign Language
 Commit: Thu Nov 28 06:00:01 CST 2019
 Have you ever heard of a music group called Cellophane? They mostly wrap.
 
+Commit: Thu Nov 28 07:00:01 CST 2019
+Where does Napoleon keep his armies? In his sleevies.
+
