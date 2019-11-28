@@ -3406,3 +3406,8 @@ Astronomers got tired watching the moon go around the earth for 24 hours. They d
 Commit: Thu Nov 28 02:00:01 CST 2019
 Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.
 
+Commit: Thu Nov 28 03:00:01 CST 2019
+What was the pumpkin’s favorite sport?
+
+Squash.
+
