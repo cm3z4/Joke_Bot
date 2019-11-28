@@ -3391,3 +3391,6 @@ Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re 
 Commit: Wed Nov 27 21:00:01 CST 2019
 What do you call an alligator in a vest? An in-vest-igator!
 
+Commit: Wed Nov 27 22:00:01 CST 2019
+I knew a guy who collected candy canes, they were all in mint condition
+
