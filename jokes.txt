@@ -3397,3 +3397,6 @@ I knew a guy who collected candy canes, they were all in mint condition
 Commit: Wed Nov 27 23:00:01 CST 2019
 What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.
 
+Commit: Thu Nov 28 00:00:01 CST 2019
+What do you call a nervous javelin thrower? Shakespeare.
+
